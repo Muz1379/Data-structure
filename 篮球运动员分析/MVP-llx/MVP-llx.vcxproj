@@ -139,6 +139,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="mvp.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="analysis.h" />
+    <ClInclude Include="command.h" />
+    <ClInclude Include="contExec.h" />
+    <ClInclude Include="fileRead.h" />
+    <ClInclude Include="function.h" />
+    <ClInclude Include="help.h" />
+    <ClInclude Include="isChinese.h" />
+    <ClInclude Include="kmp.h" />
+    <ClInclude Include="listAdd.h" />
+    <ClInclude Include="listNode.h" />
+    <ClInclude Include="looklist.h" />
+    <ClInclude Include="player.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="demo.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

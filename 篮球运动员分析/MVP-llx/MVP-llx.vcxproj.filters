@@ -14,4 +14,52 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mvp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="analysis.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="command.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="contExec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fileRead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="help.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isChinese.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="kmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="listAdd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="listNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="looklist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="demo.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
