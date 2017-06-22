@@ -14,7 +14,7 @@
 #define NULL 0
 #define HASHLENGTH 500
 
-int inshash( struct BINTREE * hashT[], struct BINTREE * item )
+int inshash( struct BINTREE * hashT[], struct BINTREE * item)
 {
 	char qqF4char[5];		//QQ号前四个数字
 	int qqNumF4;	 		//因为int两字节，最大值为65535，可完全表示四位数。
