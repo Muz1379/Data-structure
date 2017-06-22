@@ -8,12 +8,11 @@
 #include <Windows.h>
                                             //数据结构
 
-#include "ListNode.h"
+#include "BINNode.h"
 #include "MemberNode.h"
 #include "resNode.h"
                                             //函数声明
 #include "Function.h"
-
                                             //函数定义
 #include "FileRead.h"
 #include "ContExec.h"
@@ -22,17 +21,21 @@
 #include "SearchHash.h"
 #include "InsertList.h"
 
+#define OK 1
+#define ERR -1
+#define NULL 0
+
 int main( void )
 {
 	char fileNameA[100];	                //文件名A
 	char fileNameB[100];	                //文件名B
 	char * contA;			                //内容字符串A
 	char * contB;			                //内容字符串B
-	struct LISTNODE * hashA[500] = { 0 };	//设定哈希表长500，由于目前qq群最大人数为2000，哈希冲突使用拉链法解决。
-	struct LISTNODE * hashB[500] = { 0 };
-	struct LISTNODE * tempA = { 0 };
-	struct LISTNODE * tempB = { 0 };
-	struct RESNODE * resList = { 0 };
+	struct BINTREE * hashA[500] = { NULL };	//设定哈希表长500，由于目前qq群最大人数为2000，哈希冲突使用拉链法解决。
+	struct BINTREE * hashB[500] = { NULL };
+	struct BINTREE * tempA = { NULL };
+	struct BINTREE * tempB = { NULL };
+	struct RESNODE * resList = { NULL };
 	struct RESNODE * resTemp;
 	int i = 0;
 	int j = 0;
@@ -56,44 +59,27 @@ int main( void )
 	contexec( contA ,hashA);
 	contexec( contB ,hashB);
 
+
+	hashcmp( hashA, hashB, resList );
 	//查找哈希表，生成结果链表
-	for(i = 0; i < 50; i++)
+
+	printf( "查找完毕，结果存储在resList单链表中" );
+	
+
+	if(resList != NULL)
 	{
-		tempA = hashA[i];
-		if(tempA->member == 0)//该哈希位置空，不用查找，直接进行下一项
+		printf( "%20s\t%50s\t%50s\t%50s\t%50s\t","QQ号", "A群名称", "A群内名片", "B群名称", "B群内名片" );
+		while(resList != NULL)
 		{
-			continue;
-		}
-		else
-		{
-			while(tempA != 0)
-			{
-				tempB = searchHash( hashB, tempA->member->qqNum );
-				if(tempB == 0)//查找失败,即无重复。可进行下一项查找
-				{
-					continue;
-				}
-				else//查找成功，将成员节点赋值给结果链表
-				{
-					resTemp = (struct RESNODE *)malloc( sizeof( struct RESNODE * ) );
-					resTemp->A = tempA;
-					resTemp->B = tempB;
-					resTemp->next = 0;
-					insertlist( resList, resTemp );
-				}
-				tempA = tempA->next;
-			}
+			printf( "\n" );
+			printf( "%20s\t%50s\t%50s\t%50s\t%50s\t", resList->A->qqNum, resList->A->qqGroup, resList->A->personCard, resList->B->qqGroup, resList->B->personCard );
+			resList = resList->next;
 		}
 	}
-	printf( "查找完毕，结果存储在resList单链表中" );
-	//TODO:完善后续功能。
-
-
-
-
-
-
-
+	else
+	{
+		printf( "两群内无重复人员" );
+	}
 
 	system( "pause" );
 	return 0;
