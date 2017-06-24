@@ -10,4 +10,5 @@ int insreslist( struct RESNODE * list, struct RESNODE * p)
 		list = list->next;
 	}
 	list->next = p;
+	return OK;
 }
