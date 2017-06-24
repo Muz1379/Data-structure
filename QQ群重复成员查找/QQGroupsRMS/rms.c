@@ -1,10 +1,12 @@
 #pragma once
-#pragma execution_character_set("utf-8")
+
                                             //内置系统头文件
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <ctype.h>
+#include <locale.h>
 
 #define OK 1
 #define ERR -1
@@ -30,19 +32,15 @@
 #include "HashCmp.h"
 #include "DLRSearchBinTree.h"
 
-//TODO:测试用
-#define fileNameA "testA.txt"
-#define fileNameB "testB.txt"
 
 int main( void )
 {
 	//TODO:测试用
-	/*
-	//char fileNameA[100];	                //文件名A
-	//char fileNameB[100];	                //文件名B
-	*/
-	char * contA;			                //内容字符串A
-	char * contB;			                //内容字符串B
+	char fileNameA[100] = "testA.txt";	                //文件名A
+	char fileNameB[100] = "testB.txt";	                //文件名B
+	
+	char * contA = NULL;			                //内容字符串A
+	char * contB = NULL;			                //内容字符串B
 	struct BINTREE * hashA[HASHLENGTH] = { NULL };	//设定哈希表长500，由于目前qq群最大人数为2000，哈希冲突使用拉链法解决。
 	struct BINTREE * hashB[HASHLENGTH] = { NULL };
 	struct BINTREE * tempA = { NULL };
@@ -52,7 +50,6 @@ int main( void )
 	int i = 0;
 	int j = 0;
 
-	system( "chcp 65001" );                 //设定cmd界面编码格式UTF-8：codepage=65001
 	system( "cls" );
 	printf("============================\n");
 	printf("\n该程序用于查找两qq群重复成员\n");
@@ -70,11 +67,8 @@ int main( void )
 	scanf( "%s", fileNameB );
 	contB = fileread( fileNameB );
 	*/
-	contA = fileread( fileNameA );
-	contB = fileread( fileNameB );
-
-	contexec( contA ,hashA);
-	contexec( contB ,hashB);
+	fileread( fileNameA,hashA);
+	fileread( fileNameB,hashB);
 
 	//查找哈希表，生成结果链表
 	hashcmp( hashA, hashB, resList );

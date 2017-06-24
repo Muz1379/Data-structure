@@ -1,11 +1,18 @@
 ﻿#pragma once
-#pragma execution_character_set("utf-8")
+
+#include <stdio.h>
+
+#include "ContExec.h"
 /*
 读入文件，并把文件流赋值给cont，返回字符数组指针
 */
-char * fileread( char * url )
+
+int fileread( char * url , struct BINTREE * hash)
 {
-	FILE *fp = fopen( url, "r+" );
+	
+	long fpLength = 0;
+
+	FILE * fp = fopen( url, "rb+" );
 	if(fp == 0)
 	{
 		puts( "文件打开失败" );
@@ -13,15 +20,22 @@ char * fileread( char * url )
 		return -1;
 	}
 	fseek( fp, 0, SEEK_END );
-	long fpLength = ftell( fp );
+	
+	fpLength = ftell( fp );
+
 	char * cont = (char *)malloc( sizeof( char )* (fpLength+1) );
-	
-	fseek( fp, 0, SEEK_SET );
-	fread( cont, fpLength, sizeof( char ), fp );
-	
-	fclose( fp );
-	free( fp );
+
+	//fseek( fp, 0, SEEK_SET );
+	rewind( fp );
+	fread( cont, sizeof( char ), fpLength, fp );
+
 	*(cont + fpLength) = '\0';
+
+	contexec( cont, hash );
+	fclose(fp);
+	free(fp);
+
+	free( cont );
 	
-	return cont;
+	return OK;
 }

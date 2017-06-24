@@ -14,4 +14,56 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rms.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FileRead.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MemberNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ContExec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isChinese.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KMP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchHash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="insHash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BINNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HashCmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="insBinTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InsResList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LRDVisitBinTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLRSearchBinTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
