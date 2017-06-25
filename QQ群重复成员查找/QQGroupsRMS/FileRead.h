@@ -1,10 +1,10 @@
-ï»¿#pragma once
+#pragma once
 
 #include <stdio.h>
 
 #include "ContExec.h"
 /*
-è¯»å…¥æ–‡ä»¶ï¼Œå¹¶æŠŠæ–‡ä»¶æµèµ‹å€¼ç»™contï¼Œè¿”å›å­—ç¬¦æ•°ç»„æŒ‡é’ˆ
+¶ÁÈëÎÄ¼ş£¬²¢°ÑÎÄ¼şÁ÷¸³Öµ¸øcont£¬·µ»Ø×Ö·ûÊı×éÖ¸Õë
 */
 
 int fileread( char * url , struct BINTREE * hash)
@@ -15,7 +15,7 @@ int fileread( char * url , struct BINTREE * hash)
 	FILE * fp = fopen( url, "rb+" );
 	if(fp == 0)
 	{
-		puts( "æ–‡ä»¶æ‰“å¼€å¤±è´¥" );
+		puts( "ÎÄ¼ş´ò¿ªÊ§°Ü" );
 		printf( "\n" );
 		return -1;
 	}

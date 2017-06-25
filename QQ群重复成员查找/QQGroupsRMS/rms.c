@@ -1,6 +1,6 @@
 #pragma once
-
-                                            //内置系统头文件
+#pragma execution_character_set("ANSI")                    
+//内置系统头文件
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
@@ -50,11 +50,12 @@ int main( void )
 	int i = 0;
 	int j = 0;
 
+	/*system( "chcp 65001" );*/
 	system( "cls" );
-	printf("============================\n");
+	printf("= = = = = = = = = = = = = = = = =\n");
 	printf("\n该程序用于查找两qq群重复成员\n");
 	printf("\n");
-	printf("============================\n");
+	printf("= = = = = = = = = = = = = = = = =\n");
 	printf( "\n" );
 
 	                                        //TODO:此处打开文件生成字符串，应添加异常处理模块
