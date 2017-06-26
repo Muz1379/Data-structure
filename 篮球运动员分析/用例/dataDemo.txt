@@ -1,0 +1,1591 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0043)http://nba.sports.sina.com.cn/team.php -->
+<HTML><HEAD><META content="IE=5.0000" http-equiv="X-UA-Compatible">
+ <TITLE>凯尔特人队 _NBA _新浪竞技风暴_新浪网</TITLE> 
+<META http-equiv="Content-Type" content="text/html; charset=gb2312"> 
+<META name="keywords" content="凯尔特人队,NBA 凯尔特人队,凯尔特人队,凯尔特人队赛程,凯尔特人队比赛"> 
+<META name="tags" content="凯尔特人队,NBA 凯尔特人队,凯尔特人队,凯尔特人队赛程,凯尔特人队比赛"> 
+<META name="description" content="凯尔特人队-新浪NBA球队,呈现NBA凯尔特人队的最新报道,凯尔特人队赛程,凯尔特人队排名,凯尔特人队比赛,凯尔特人队战绩,凯尔特人队视频,凯尔特人队图片,伤病报告,相关新闻,并介绍NBA凯尔特人队的球队历史等"> 
+<LINK href="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/style2007.css" rel="stylesheet" 
+type="text/css"> 
+<STYLE type="text/css">
+.show_hidden{display:none;}
+</STYLE>
+ 
+<SCRIPT language="javascript" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/function.js" type="text/javascript"></SCRIPT>
+ 
+<SCRIPT language="javascript" type="text/javascript">
+<!--//--><![CDATA[//><!--
+function mover(src,clrOver){
+	src.bgColor = clrOver;
+}
+function mout(src,clrout)  {
+	src.bgColor = clrout;
+}
+function GetObj(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval('document.all.'+objName)}}
+function Show_Sub(id_num,num){ //舌签功能
+	for(var i = 0;i <= 9;i++){
+		if(GetObj("S_Menu_" + id_num + i)){GetObj("S_Menu_" + id_num + i).className = 'unselected';}
+		if(GetObj("S_Cont_" + id_num + i)){GetObj("S_Cont_" + id_num + i).style.display = 'none';}
+	}
+	if(GetObj("S_Menu_" + id_num + num)){GetObj("S_Menu_" + id_num + num).className = '';}
+	if(GetObj("S_Cont_" + id_num + num)){GetObj("S_Cont_" + id_num + num).style.display = 'block';}
+}
+//--><!]]>
+</SCRIPT>
+ 
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD> 
+<BODY topmargin="5" leftmargin="0" bgcolor="#ffffff" marginheight="5" 
+marginwidth="0">
+<CENTER>
+<DIV style="margin: 0px auto; width: 980px; text-align: center;">
+<SCRIPT language="JavaScript">
+<!--
+function GetObj(objName){
+	if(document.getElementById){
+		return eval('document.getElementById("' + objName + '")');
+	}else if(document.layers){
+		return eval("document.layers['" + objName +"']");
+	}else{
+		return eval('document.all.' + objName);
+	}
+}
+var PreloadImg = function(){
+	var preloadImages = new Array();
+	for(var i=0;i<arguments.length;i++){
+		preloadImages[0] = new Image();
+		preloadImages[0].src = arguments[i];
+	}
+}
+//PreloadImg("http://image2.sina.com.cn/ty/nba/nbalive/right1_01.gif","http://image2.sina.com.cn/ty/nba/nbalive/right2_01.gif","http://image2.sina.com.cn/ty/nba/nbalive/right_01.gif");//预读图片
+function SetLbl(objId, cClass, cCon, hCon, dCon){
+	GetObj(objId).className = cClass;
+	GetObj(cCon).style.display = "block";
+	GetObj(hCon).style.display = "none";
+	GetObj(dCon).style.display = "none";
+}
+PreloadImg("http://image2.sina.com.cn/ty/nba/nbalive/right1_01.gif","http://image2.sina.com.cn/ty/nba/nbalive/right2_01.gif","http://image2.sina.com.cn/ty/nba/nbalive/right_01.gif","http://image2.sina.com.cn/ty/nba/rightb.gif","http://image2.sina.com.cn/ty/nba/righta.gif");//预读图片
+function SetLb(objId, aClass, aCon, bCon){
+	GetObj(objId).className = aClass;
+	GetObj(aCon).style.display = "block";
+	GetObj(bCon).style.display = "none";
+}
+//-->
+</SCRIPT>
+ <!-- 2010-5-31 SUDA_CODE_START --> 
+<SCRIPT src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/suda_s_v851c.js" type="text/javascript"></SCRIPT>
+ 
+<SCRIPT type="text/javascript"> 
+_S_pSt(_S_PID_); 
+</SCRIPT>
+ <NOSCRIPT>&lt;div 
+style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'&gt;&lt;img 
+width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' 
+alt='' /&gt;&lt;/div&gt; </NOSCRIPT> <!-- 2010-5-31 SUDA_CODE_END --> <!-- 所有NBA数据库通用模块1 begin --> <!-- 竞技风暴 head begin --> <!-- 标准二级导航_体育 begin --> 
+<STYLE type="text/css">
+.secondaryHeader{height:33px;overflow:hidden;background:url(http://i2.sinaimg.cn/dy/images/header/2008/standardl2nav_bg.gif) repeat-x #fff;color:#000;font-size:12px;font-weight:100;}
+.secondaryHeader a,.secondaryHeader a:visited{color:#000;text-decoration:none;}
+.secondaryHeader a:hover,.secondaryHeader a:active{color:#c00;text-decoration:underline;}
+.sHBorder{border:1px #e3e3e3 solid;padding:0 10px 0 12px;overflow:hidden;zoom:1;}
+.sHLogo{float:left;height:31px;line-height:31px;overflow:hidden;}
+.sHLogo span,.sHLogo span a{display:block;*float:left;display:table-cell;vertical-align:middle;*display:block;*font-size:27px;*font-family:Arial;height:31px;}
+.sHLogo span,.sHLogo span a img{vertical-align:middle;}
+.sHLinks{float:right;line-height:31px;}
+.secondaryHeader img{border:none;}
+</STYLE>
+ 
+<DIV class="secondaryHeader" style="margin: 5px auto; width: 980px;">
+<DIV class="sHBorder">
+<DIV class="sHLogo"><SPAN><A href="http://sports.sina.com.cn/"><IMG alt="新浪网" 
+src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/standardl2nav_sina_new.gif" 
+border="0"></A><A href="http://sports.sina.com.cn/"><IMG alt="新浪体育" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/standardl2nav_sports.gif" 
+border="0"></A></SPAN></DIV>
+<DIV class="sHLinks"><A 
+href="http://sports.sina.com.cn/">体育首页</A>&nbsp;|&nbsp;<A href="http://www.sina.com.cn/">新浪首页</A>&nbsp;|&nbsp;<A 
+href="http://news.sina.com.cn/guide/">新浪导航</A></DIV></DIV></DIV><!-- 标准二级导航_体育 end --> 
+<DIV id="nav">
+<TABLE align="left" border="0" cellspacing="0" cellpadding="0">
+  <TBODY>
+  <TR>
+    <TD width="10"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/scrollnews.shtml" 
+      target="_blank">滚动</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/bn/sports/" target="_blank">视频</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/photo/" target="_blank">图片</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/blog/" target="_blank">博客</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/bbs/" target="_blank">论坛</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/global/" target="_blank">国际足球</A></TD>
+    <TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/china/" target="_blank">国内足球</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/basketball/" 
+      target="_blank">篮球</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/nba/" target="_blank">NBA</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/cba/" target="_blank">CBA</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/others/" target="_blank">综合体育</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://f1.sina.com.cn/" 
+    target="_blank">F1</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/tennis/" target="_blank">网球</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/chess/" target="_blank">棋牌</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://golf.sina.com.cn/" 
+      target="_blank">高尔夫</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/lottery/" target="_blank">彩票</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://sports.sina.com.cn/gossip/" target="_blank">性感体坛</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://tools.sina.com.cn/">新浪百事通</A></TD>
+    <TD><IMG src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/tysy_lmy_006.gif"></TD>
+    <TD valign="bottom"><A href="http://news.sina.com.cn/437/2008/1015/56.html" 
+      target="_blank"><FONT 
+color="yellow">手机看NBA</FONT></A></TD></TR></TBODY></TABLE></DIV>
+<DIV id="navbanner"><IMG width="250" height="98" alt="" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/stats.jpg"><IMG 
+width="730" height="98" alt="" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/2007top_03.jpg"></DIV>
+<DIV id="navleft">
+<P style="padding-left: 10px;"><A href="http://sports.sina.com.cn/nba/" target="_blank">NBA首页</A> 
+|	 <A href="http://sports.sina.com.cn/nba/scoreboard/">比分</A>	 <A href="http://nba.sports.sina.com.cn/league_order1.php?dpc=1">排名</A>
+	 <A href="http://nba.sports.sina.com.cn/match_result.php?dpc=1">赛程</A>	 <A 
+href="http://nba.sports.sina.com.cn/playerstats.php?dpc=1">统计</A>	 <A href="http://nba.sports.sina.com.cn/teams.php?dpc=1">球队</A>
+	 <A href="http://nba.sports.sina.com.cn/players.php?dpc=1">球员</A>	 <!-- <a href="http://nba.sports.sina.com.cn/transactions.php?&dpc=1" target=_blank>转会</a>
+   	<a href=http://nba.sports.sina.com.cn/injury.php target=_blank>伤情</a> -->
+	 <A href="http://nba.sports.sina.com.cn/showtv.php?dpc=1">电视</A> |     <A href="http://sports.sina.com.cn/nba/1.shtml" 
+target="_blank">霍华德-火箭</A>	 <!-- <a href=http://sports.sina.com.cn/nba/14.shtml target=_blank>易建联小牛</a> -->
+	 <A href="http://sports.sina.com.cn/nba/5.shtml" target="_blank">科比-湖人</A>	 <A 
+href="http://sports.sina.com.cn/nba/12.shtml" target="_blank">詹姆斯-骑士</A>	 <A 
+href="http://sports.sina.com.cn/nba/6.shtml" target="_blank">诸强</A>	 <A href="http://sports.sina.com.cn/z/nba/photo/sum/20/index.shtml" 
+target="_blank">图片</A>	 <A href="http://sports.sina.com.cn/nba/9.shtml" target="_blank">评论</A> 
+|	 <A href="http://sports.sina.com.cn/l/2caipiao/jclq/?agentId=2332895" target="_blank">篮球彩票</A> 
+    <A href="http://swf.games.sina.com.cn/tgy/ng/32/660/201166.html?sina1721&amp;suda-key=game&amp;suda-value=home:guide&amp;suda-game=ftx2" 
+target="_blank">篮球游戏</A>	 </P></DIV>
+<DIV id="navright">
+<P style="padding-right: 5px;">2017年06月11日</P></DIV>
+<DIV id="navbottom"></DIV><!-- 所有NBA数据库通用模块1 end --> 
+<DIV id="main"><!-- 左侧 begin --> 
+<DIV id="left"><!-- 球队信息 begin --> 
+<DIV id="table730top">
+<DIV style="height: 36px; float: left;">
+<P><STRONG style="font-size: 14px;">凯尔特人队</STRONG> (Boston Celtics) |	 <A href="http://nba.sports.sina.com.cn/team.php?id=2#roster">阵容</A> 
+|	 <A href="http://nba.sports.sina.com.cn/team_match.php?id=2" 
+target="_blank">赛程</A> |	 <A href="http://nba.sports.sina.com.cn/team.php?id=2#news">新闻</A> 
+| 	 <A href="http://nba.sports.sina.com.cn/transactions_team.php?id=2" target="_blank">转会</A> 
+|	 <A href="http://nba.sports.sina.com.cn/injury_team.php?id=2" 
+target="_blank">伤情</A> |	 <A href="http://comment4.news.sina.com.cn/comment/skin/default.html?channel=ty&amp;newsid=6-12-1223678&amp;style=0" 
+target="_blank">留言板</A></P></DIV>
+<DIV 
+style="height: 36px; text-align: right; padding-right: 15px; float: right;">
+<FORM action="http://nba.sports.sina.com.cn/team.php" method="get"><SELECT name="id" 
+style="width: 100px; margin-top: 11px;"><OPTION selected="">查看其他球队</OPTION> 
+  <OPTION value="1">老鹰</OPTION><OPTION value="2">凯尔特人</OPTION><OPTION 
+  value="30">山猫</OPTION><OPTION value="4">公牛</OPTION><OPTION 
+  value="5">骑士</OPTION><OPTION value="6">小牛</OPTION><OPTION 
+  value="7">掘金</OPTION><OPTION value="8">活塞</OPTION><OPTION 
+  value="9">勇士</OPTION><OPTION value="10">火箭</OPTION><OPTION 
+  value="11">步行者</OPTION><OPTION value="12">快船</OPTION><OPTION 
+  value="13">湖人</OPTION><OPTION value="29">灰熊</OPTION><OPTION 
+  value="14">热火</OPTION><OPTION value="15">雄鹿</OPTION><OPTION 
+  value="16">森林狼</OPTION><OPTION value="17">篮网</OPTION><OPTION 
+  value="3">鹈鹕</OPTION><OPTION value="18">尼克斯</OPTION><OPTION 
+  value="19">魔术</OPTION><OPTION value="20">76人</OPTION><OPTION 
+  value="21">太阳</OPTION><OPTION value="22">开拓者</OPTION><OPTION 
+  value="23">国王</OPTION><OPTION value="24">马刺</OPTION><OPTION 
+  value="25">雷霆</OPTION><OPTION value="28">猛龙</OPTION><OPTION 
+  value="26">爵士</OPTION><OPTION value="27">奇才</OPTION>		 </SELECT>		 <INPUT id="button" style="width: 36px; margin-top: 11px;" type="submit" value="查看">
+	 </FORM></DIV></DIV>
+<DIV id="table730middle">
+<DIV align="center">
+<TABLE width="700" align="center" style="color: rgb(134, 23, 0);" bgcolor="#ffefb6" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#fcac08">
+    <TD width="80" height="21">队　　名</TD>
+    <TD width="190" align="left" style="padding-left: 10px;">凯尔特人队 </TD>
+    <TD width="140">主 教 练</TD>
+    <TD>比赛中心</TD></TR>
+  <TR align="center" bgcolor="#fcac08">
+    <TD height="21">城　　市</TD>
+    <TD align="left" style="padding-left: 10px;">波士顿</TD>
+    <TD width="140" align="center" valign="top" style="line-height: 20px; padding-top: 5px;" 
+    rowspan="7"><IMG width="120" height="80" alt="布拉德-史蒂文斯" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/U4934P6DT20130710124602.jpg"><BR>
+      		布拉德-史蒂文斯<BR>(Brad Stevens)<BR>生日：1976/09/22</TD>
+    <TD valign="top" style="padding-top: 4px;" rowspan="7">
+      <TABLE width="95%" align="center" class="text" style="line-height: 17px;" 
+      border="0" cellspacing="1" cellpadding="0">
+        <TBODY>
+        <TR>
+          <TD align="left" style="padding-left: 5px;" bgcolor="#ffefb6" colspan="2">上一场：2017-05-26 
+            主场 <A href="http://sports.sina.com.cn/nba/live.html?id=2017052602" 
+            target="_blank">102-135</A> 骑士</TD></TR>
+        <TR align="center" bgcolor="#ffefb6">
+          <TD align="left" style="padding-right: 5px; padding-left: 5px;" 
+          bgcolor="#ffefb6" colspan="2">
+            <TABLE width="100%" align="center" class="text" style="line-height: 17px;" 
+            bgcolor="#fcac08" border="0" cellspacing="1" cellpadding="0">
+              <TBODY>
+              <TR align="center" bgcolor="#ffefb6">
+                <TD><A href="http://nba.sports.sina.com.cn/team/Cavaliers.shtml" 
+                  target="_blank">骑士</A></TD>
+                <TD>43</TD>
+                <TD>32</TD>
+                <TD>34</TD>
+                <TD>26</TD>
+                <TD>135</TD>
+                <TD><A href="http://sports.sina.com.cn/basketball/nba/2017-05-26/doc-ifyfqvmh9048225.shtml" 
+                  target="_blank">战报</A></TD></TR>
+              <TR align="center" bgcolor="#ffefb6">
+                <TD><A href="http://nba.sports.sina.com.cn/team/Celtics.shtml" 
+                  target="_blank">凯尔特人</A></TD>
+                <TD>27</TD>
+                <TD>30</TD>
+                <TD>17</TD>
+                <TD>28</TD>
+                <TD>102</TD>
+                <TD><A href="http://nba.sports.sina.com.cn/look_scores.php?id=2017052602" 
+                  target="_blank">统计</A></TD></TR></TBODY></TABLE>得分最高 <A href="http://nba.sports.sina.com.cn/star/LeBron-James.shtml" 
+            target="_blank">		勒布朗-詹姆斯</A>		 35<BR>篮板最高 <A href="http://nba.sports.sina.com.cn/star/Kevin-Love.shtml" 
+            target="_blank">		凯文-勒夫</A>		 11<BR>助攻最高 <A href="http://nba.sports.sina.com.cn/star/LeBron-James.shtml" 
+            target="_blank">		勒布朗-詹姆斯</A>		 8</TD></TR>
+        <TR>
+          <TD align="left" style="padding-left: 5px;" bgcolor="#ffefb6" colspan="2">下一场：</TD></TR></TBODY></TABLE></TD></TR>
+  <TR align="center" bgcolor="#fcac08">
+    <TD height="21">分　　区</TD>
+    <TD align="left" style="padding-left: 10px;">东部 大西洋区</TD></TR>
+  <TR align="center" bgcolor="#fcac08">
+    <TD height="21">老　　板</TD>
+    <TD align="left" style="padding-left: 10px;">维克-格罗斯贝克(Wyc Grousbeck)</TD></TR>
+  <TR align="center" bgcolor="#fcac08">
+    <TD height="21">球　　场</TD>
+    <TD align="left" style="padding-left: 10px;">TD花园球馆</TD></TR>
+  <TR align="center" bgcolor="#fcac08">
+    <TD height="21">进入 NBA</TD>
+    <TD align="left" style="padding-left: 10px;">1946年</TD></TR>
+  <TR align="center" bgcolor="#fcac08">
+    <TD height="21">总冠军数</TD>
+    <TD align="left" style="padding-left: 10px;">17</TD></TR>
+  <TR align="center" bgcolor="#fcac08">
+    <TD height="21">当前排名</TD>
+    <TD align="left" 
+style="padding-left: 10px;">东部第1</TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV id="table730bottom"></DIV><!-- 球队信息 end --> <!-- 阵容 begin --> 
+<DIV id="table730top">
+<DIV style="height: 36px; float: left;">
+<P style="font-size: 14px;">凯尔特人队 阵容</P></DIV>
+<DIV 
+style="height: 36px; text-align: right; padding-right: 15px; float: right;">
+<P>平均年龄：26岁 | 平均身高：1.99米 | 平均体重：99.9公斤</P></DIV></DIV>
+<DIV id="table730middle">
+<DIV align="center"><A name="roster"></A> 
+<TABLE width="702" align="center" class="text" border="0" cellspacing="1" 
+cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD width="35">号码</TD>
+    <TD>球员</TD>
+    <TD width="70">位置</TD>
+    <TD width="70">身高</TD>
+    <TD width="70">体重</TD>
+    <TD width="70">年龄</TD>
+    <TD width="95">生日</TD>
+    <TD width="70">NBA球龄</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>0</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Avery-Bradley.shtml" 
+      target="_blank">艾弗里-布拉德利</A></TD>
+    <TD>后卫</TD>
+    <TD>1.88米</TD>
+    <TD>82公斤</TD>
+    <TD>27岁</TD>
+    <TD>1990-11-26</TD>
+    <TD>6年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD>4</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Isaiah-Thomas.shtml" 
+      target="_blank">伊赛亚-托马斯</A></TD>
+    <TD>后卫</TD>
+    <TD>1.75米</TD>
+    <TD>84公斤</TD>
+    <TD>28岁</TD>
+    <TD>1989-02-07</TD>
+    <TD>5年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>7</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jaylen-Brown.shtml" 
+      target="_blank">杰伦-布朗</A></TD>
+    <TD>前锋</TD>
+    <TD>2.01米</TD>
+    <TD>102公斤</TD>
+    <TD>21岁</TD>
+    <TD>1996-10-24</TD>
+    <TD>0年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD>8</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jonas-Jerebko.shtml" 
+      target="_blank">尤纳斯-杰雷布科</A></TD>
+    <TD>前锋</TD>
+    <TD>2.08米</TD>
+    <TD>105公斤</TD>
+    <TD>30岁</TD>
+    <TD>1987-03-02</TD>
+    <TD>6年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>9</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Demetrius-Jackson.shtml" 
+      target="_blank">迪米特里厄斯-杰克逊</A></TD>
+    <TD>后卫</TD>
+    <TD>1.85米</TD>
+    <TD>91公斤</TD>
+    <TD>23岁</TD>
+    <TD>1994-09-07</TD>
+    <TD>0年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD>12</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Terry-Rozier.shtml" 
+      target="_blank">特里-罗齐尔</A></TD>
+    <TD>后卫</TD>
+    <TD>1.88米</TD>
+    <TD>86公斤</TD>
+    <TD>23岁</TD>
+    <TD>1994-03-17</TD>
+    <TD>1年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>13</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/James-Young.shtml" 
+      target="_blank">詹姆斯-杨</A></TD>
+    <TD>后卫/前锋</TD>
+    <TD>1.98米</TD>
+    <TD>98公斤</TD>
+    <TD>22岁</TD>
+    <TD>1995-08-16</TD>
+    <TD>2年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD>30</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Gerald-Green.shtml" 
+      target="_blank">杰拉德-格林</A></TD>
+    <TD>前锋</TD>
+    <TD>2.03米</TD>
+    <TD>95公斤</TD>
+    <TD>31岁</TD>
+    <TD>1986-01-26</TD>
+    <TD>9年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>36</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Marcus-Smart.shtml" 
+      target="_blank">马库斯-斯玛特</A></TD>
+    <TD>后卫</TD>
+    <TD>1.93米</TD>
+    <TD>100公斤</TD>
+    <TD>23岁</TD>
+    <TD>1994-03-06</TD>
+    <TD>2年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD>41</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Kelly-Olynyk.shtml" 
+      target="_blank">凯利-奥利尼克</A></TD>
+    <TD>中锋/前锋</TD>
+    <TD>2.13米</TD>
+    <TD>108公斤</TD>
+    <TD>26岁</TD>
+    <TD>1991-04-19</TD>
+    <TD>3年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>42</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Al-Horford.shtml" 
+      target="_blank">艾尔-霍福德</A></TD>
+    <TD>中锋/前锋</TD>
+    <TD>2.08米</TD>
+    <TD>111公斤</TD>
+    <TD>31岁</TD>
+    <TD>1986-06-03</TD>
+    <TD>9年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD>44</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Tyler-Zeller.shtml" 
+      target="_blank">泰勒-泽勒</A></TD>
+    <TD>中锋/前锋</TD>
+    <TD>2.13米</TD>
+    <TD>115公斤</TD>
+    <TD>27岁</TD>
+    <TD>1990-01-17</TD>
+    <TD>4年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>55</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jordan-Mickey.shtml" 
+      target="_blank">乔丹-米基</A></TD>
+    <TD>前锋</TD>
+    <TD>2.03米</TD>
+    <TD>107公斤</TD>
+    <TD>23岁</TD>
+    <TD>1994-07-09</TD>
+    <TD>1年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD>90</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Amir-Johnson.shtml" 
+      target="_blank">阿米尔-约翰逊</A></TD>
+    <TD>前锋</TD>
+    <TD>2.06米</TD>
+    <TD>109公斤</TD>
+    <TD>30岁</TD>
+    <TD>1987-05-01</TD>
+    <TD>11年</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFFFFF');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>99</TD>
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jae-Crowder.shtml" 
+      target="_blank">贾伊-克劳德</A></TD>
+    <TD>前锋</TD>
+    <TD>1.98米</TD>
+    <TD>107公斤</TD>
+    <TD>27岁</TD>
+    <TD>1990-07-06</TD>
+    <TD>4年</TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV id="table730bottom"></DIV><!-- 阵容 end --> <!-- 场均统计 begin --> 
+<DIV id="table730top">
+<P style="font-size: 14px;">技术统计 |	 <SPAN id="S_Menu_01" onmousedown="Show_Sub(0,1);">场均</SPAN> 
+|	 <SPAN class="unselected" id="S_Menu_02" 
+onmousedown="Show_Sub(0,2);">总计</SPAN></P></DIV>
+<DIV id="table730middle">
+<DIV align="center" id="S_Cont_01">
+<TABLE width="702" align="center" class="text" border="0" cellspacing="1" 
+cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD>球员</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>出场</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>首发</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>时间</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>投篮</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>三分</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>罚球</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>前篮板</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>后篮板</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>总篮板</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>助攻</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>抢断</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>盖帽</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>失误</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>犯规</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>得分</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Isaiah-Thomas.shtml" 
+      target="_blank">伊赛亚-托马斯</A></TD>
+    <TD>76</TD>
+    <TD>76</TD>
+    <TD>33.8</TD>
+    <TD>46.3%</TD>
+    <TD>37.9%</TD>
+    <TD>90.9%</TD>
+    <TD>0.6</TD>
+    <TD>2.1</TD>
+    <TD>2.7</TD>
+    <TD>5.9</TD>
+    <TD>0.9</TD>
+    <TD>0.2</TD>
+    <TD>2.8</TD>
+    <TD>2.2</TD>
+    <TD>28.9</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jae-Crowder.shtml" 
+      target="_blank">贾伊-克劳德</A></TD>
+    <TD>72</TD>
+    <TD>72</TD>
+    <TD>32.5</TD>
+    <TD>46.3%</TD>
+    <TD>39.8%</TD>
+    <TD>81.1%</TD>
+    <TD>0.7</TD>
+    <TD>5.1</TD>
+    <TD>5.8</TD>
+    <TD>2.2</TD>
+    <TD>1</TD>
+    <TD>0.3</TD>
+    <TD>1.1</TD>
+    <TD>2.2</TD>
+    <TD>13.9</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Al-Horford.shtml" 
+      target="_blank">艾尔-霍福德</A></TD>
+    <TD>68</TD>
+    <TD>68</TD>
+    <TD>32.3</TD>
+    <TD>47.3%</TD>
+    <TD>35.5%</TD>
+    <TD>80%</TD>
+    <TD>1.4</TD>
+    <TD>5.4</TD>
+    <TD>6.8</TD>
+    <TD>5</TD>
+    <TD>0.8</TD>
+    <TD>1.3</TD>
+    <TD>1.7</TD>
+    <TD>2</TD>
+    <TD>14</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Avery-Bradley.shtml" 
+      target="_blank">艾弗里-布拉德利</A></TD>
+    <TD>55</TD>
+    <TD>55</TD>
+    <TD>33.4</TD>
+    <TD>46.3%</TD>
+    <TD>39%</TD>
+    <TD>73.1%</TD>
+    <TD>1.2</TD>
+    <TD>4.9</TD>
+    <TD>6.1</TD>
+    <TD>2.2</TD>
+    <TD>1.2</TD>
+    <TD>0.2</TD>
+    <TD>1.6</TD>
+    <TD>2.6</TD>
+    <TD>16.3</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Marcus-Smart.shtml" 
+      target="_blank">马库斯-斯玛特</A></TD>
+    <TD>79</TD>
+    <TD>24</TD>
+    <TD>30.4</TD>
+    <TD>35.9%</TD>
+    <TD>28.3%</TD>
+    <TD>81.2%</TD>
+    <TD>1</TD>
+    <TD>2.9</TD>
+    <TD>3.9</TD>
+    <TD>4.6</TD>
+    <TD>1.6</TD>
+    <TD>0.4</TD>
+    <TD>2</TD>
+    <TD>2.4</TD>
+    <TD>10.6</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Kelly-Olynyk.shtml" 
+      target="_blank">凯利-奥利尼克</A></TD>
+    <TD>75</TD>
+    <TD>6</TD>
+    <TD>20.5</TD>
+    <TD>51.2%</TD>
+    <TD>35.4%</TD>
+    <TD>73.2%</TD>
+    <TD>1</TD>
+    <TD>3.8</TD>
+    <TD>4.8</TD>
+    <TD>2</TD>
+    <TD>0.6</TD>
+    <TD>0.4</TD>
+    <TD>1.3</TD>
+    <TD>2.8</TD>
+    <TD>9</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Amir-Johnson.shtml" 
+      target="_blank">阿米尔-约翰逊</A></TD>
+    <TD>80</TD>
+    <TD>77</TD>
+    <TD>20.1</TD>
+    <TD>57.6%</TD>
+    <TD>40.9%</TD>
+    <TD>67%</TD>
+    <TD>1.5</TD>
+    <TD>3.1</TD>
+    <TD>4.6</TD>
+    <TD>1.8</TD>
+    <TD>0.6</TD>
+    <TD>0.8</TD>
+    <TD>1</TD>
+    <TD>2.6</TD>
+    <TD>6.5</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jaylen-Brown.shtml" 
+      target="_blank">杰伦-布朗</A></TD>
+    <TD>78</TD>
+    <TD>20</TD>
+    <TD>17.2</TD>
+    <TD>45.4%</TD>
+    <TD>34.1%</TD>
+    <TD>68.5%</TD>
+    <TD>0.6</TD>
+    <TD>2.2</TD>
+    <TD>2.8</TD>
+    <TD>0.8</TD>
+    <TD>0.4</TD>
+    <TD>0.2</TD>
+    <TD>0.9</TD>
+    <TD>1.8</TD>
+    <TD>6.6</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Terry-Rozier.shtml" 
+      target="_blank">特里-罗齐尔</A></TD>
+    <TD>74</TD>
+    <TD>0</TD>
+    <TD>17.1</TD>
+    <TD>36.7%</TD>
+    <TD>31.8%</TD>
+    <TD>77.3%</TD>
+    <TD>0.5</TD>
+    <TD>2.5</TD>
+    <TD>3.1</TD>
+    <TD>1.8</TD>
+    <TD>0.6</TD>
+    <TD>0.1</TD>
+    <TD>0.6</TD>
+    <TD>0.9</TD>
+    <TD>5.5</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jonas-Jerebko.shtml" 
+      target="_blank">尤纳斯-杰雷布科</A></TD>
+    <TD>78</TD>
+    <TD>6</TD>
+    <TD>15.8</TD>
+    <TD>43.5%</TD>
+    <TD>34.6%</TD>
+    <TD>70.3%</TD>
+    <TD>0.8</TD>
+    <TD>2.7</TD>
+    <TD>3.5</TD>
+    <TD>0.9</TD>
+    <TD>0.3</TD>
+    <TD>0.2</TD>
+    <TD>0.5</TD>
+    <TD>1.6</TD>
+    <TD>3.8</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Gerald-Green.shtml" 
+      target="_blank">杰拉德-格林</A></TD>
+    <TD>47</TD>
+    <TD>0</TD>
+    <TD>11.4</TD>
+    <TD>40.9%</TD>
+    <TD>35.1%</TD>
+    <TD>80.5%</TD>
+    <TD>0.3</TD>
+    <TD>1.4</TD>
+    <TD>1.8</TD>
+    <TD>0.7</TD>
+    <TD>0.2</TD>
+    <TD>0.1</TD>
+    <TD>0.5</TD>
+    <TD>1</TD>
+    <TD>5.6</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Tyler-Zeller.shtml" 
+      target="_blank">泰勒-泽勒</A></TD>
+    <TD>51</TD>
+    <TD>5</TD>
+    <TD>10.3</TD>
+    <TD>49.4%</TD>
+    <TD>0%</TD>
+    <TD>56.4%</TD>
+    <TD>0.8</TD>
+    <TD>1.6</TD>
+    <TD>2.4</TD>
+    <TD>0.8</TD>
+    <TD>0.1</TD>
+    <TD>0.4</TD>
+    <TD>0.4</TD>
+    <TD>1.2</TD>
+    <TD>3.5</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/James-Young.shtml" 
+      target="_blank">詹姆斯-杨</A></TD>
+    <TD>29</TD>
+    <TD>0</TD>
+    <TD>7.6</TD>
+    <TD>43.1%</TD>
+    <TD>34.3%</TD>
+    <TD>66.7%</TD>
+    <TD>0.2</TD>
+    <TD>0.7</TD>
+    <TD>0.9</TD>
+    <TD>0.1</TD>
+    <TD>0.3</TD>
+    <TD>0.1</TD>
+    <TD>0.1</TD>
+    <TD>0.5</TD>
+    <TD>2.3</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jordan-Mickey.shtml" 
+      target="_blank">乔丹-米基</A></TD>
+    <TD>25</TD>
+    <TD>1</TD>
+    <TD>5.6</TD>
+    <TD>44.1%</TD>
+    <TD>0%</TD>
+    <TD>57.1%</TD>
+    <TD>0.5</TD>
+    <TD>0.8</TD>
+    <TD>1.4</TD>
+    <TD>0.3</TD>
+    <TD>0.1</TD>
+    <TD>0.2</TD>
+    <TD>0.4</TD>
+    <TD>0.5</TD>
+    <TD>1.5</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Demetrius-Jackson.shtml" 
+      target="_blank">迪米特里厄斯-杰克逊</A></TD>
+    <TD>5</TD>
+    <TD>0</TD>
+    <TD>3.4</TD>
+    <TD>75%</TD>
+    <TD>100%</TD>
+    <TD>50%</TD>
+    <TD>0.4</TD>
+    <TD>0.4</TD>
+    <TD>0.8</TD>
+    <TD>0.6</TD>
+    <TD>0</TD>
+    <TD>0</TD>
+    <TD>0</TD>
+    <TD>0</TD>
+    <TD>2</TD></TR>
+  <TR align="center" bgcolor="#ffffff">
+    <TD align="left" style="padding-left: 5px;">凯尔特人队全队</TD>
+    <TD>82</TD>
+    <TD>-</TD>
+    <TD>241</TD>
+    <TD>45.4%</TD>
+    <TD>35.9%</TD>
+    <TD>80.7%</TD>
+    <TD>9.1</TD>
+    <TD>32.9</TD>
+    <TD>42</TD>
+    <TD>25.2</TD>
+    <TD>7.5</TD>
+    <TD>4.1</TD>
+    <TD>13.3</TD>
+    <TD>20.6</TD>
+    <TD>108</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;">对手</TD>
+    <TD>82</TD>
+    <TD>-</TD>
+    <TD>241</TD>
+    <TD>45%</TD>
+    <TD>33.2%</TD>
+    <TD>76.9%</TD>
+    <TD>10.8</TD>
+    <TD>33.8</TD>
+    <TD>44.5</TD>
+    <TD>22.6</TD>
+    <TD>7.6</TD>
+    <TD>5.2</TD>
+    <TD>13.9</TD>
+    <TD>20.3</TD>
+    <TD>105.4</TD></TR></TBODY></TABLE></DIV><!-- 场均 end --> <!-- 总计 begin --> 
+<DIV align="center" id="S_Cont_02" style="display: none;">
+<TABLE width="702" align="center" class="text" border="0" cellspacing="1" 
+cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD>球员</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>出场</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>首发</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>时间</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>投篮</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>三分</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>罚球</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>前篮板</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>后篮板</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>总篮板</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>助攻</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>抢断</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>盖帽</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>失误</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>犯规</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/team.php?id=2#"></A>得分</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Isaiah-Thomas.shtml" 
+      target="_blank">伊赛亚-托马斯</A></TD>
+    <TD>76</TD>
+    <TD>76</TD>
+    <TD>2569</TD>
+    <TD>682-1473</TD>
+    <TD>245-646</TD>
+    <TD>590-649</TD>
+    <TD>43</TD>
+    <TD>162</TD>
+    <TD>205</TD>
+    <TD>448</TD>
+    <TD>70</TD>
+    <TD>13</TD>
+    <TD>210</TD>
+    <TD>167</TD>
+    <TD>2199</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jae-Crowder.shtml" 
+      target="_blank">贾伊-克劳德</A></TD>
+    <TD>72</TD>
+    <TD>72</TD>
+    <TD>2340</TD>
+    <TD>333-720</TD>
+    <TD>157-394</TD>
+    <TD>176-217</TD>
+    <TD>48</TD>
+    <TD>367</TD>
+    <TD>415</TD>
+    <TD>155</TD>
+    <TD>73</TD>
+    <TD>23</TD>
+    <TD>80</TD>
+    <TD>161</TD>
+    <TD>999</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Al-Horford.shtml" 
+      target="_blank">艾尔-霍福德</A></TD>
+    <TD>68</TD>
+    <TD>68</TD>
+    <TD>2193</TD>
+    <TD>379-801</TD>
+    <TD>86-242</TD>
+    <TD>108-135</TD>
+    <TD>95</TD>
+    <TD>370</TD>
+    <TD>465</TD>
+    <TD>337</TD>
+    <TD>52</TD>
+    <TD>86</TD>
+    <TD>115</TD>
+    <TD>138</TD>
+    <TD>952</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Avery-Bradley.shtml" 
+      target="_blank">艾弗里-布拉德利</A></TD>
+    <TD>55</TD>
+    <TD>55</TD>
+    <TD>1835</TD>
+    <TD>359-775</TD>
+    <TD>108-277</TD>
+    <TD>68-93</TD>
+    <TD>65</TD>
+    <TD>269</TD>
+    <TD>334</TD>
+    <TD>122</TD>
+    <TD>68</TD>
+    <TD>11</TD>
+    <TD>88</TD>
+    <TD>141</TD>
+    <TD>894</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Marcus-Smart.shtml" 
+      target="_blank">马库斯-斯玛特</A></TD>
+    <TD>79</TD>
+    <TD>24</TD>
+    <TD>2399</TD>
+    <TD>269-749</TD>
+    <TD>94-332</TD>
+    <TD>203-250</TD>
+    <TD>78</TD>
+    <TD>227</TD>
+    <TD>305</TD>
+    <TD>364</TD>
+    <TD>125</TD>
+    <TD>34</TD>
+    <TD>159</TD>
+    <TD>192</TD>
+    <TD>835</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Kelly-Olynyk.shtml" 
+      target="_blank">凯利-奥利尼克</A></TD>
+    <TD>75</TD>
+    <TD>6</TD>
+    <TD>1539</TD>
+    <TD>260-508</TD>
+    <TD>68-192</TD>
+    <TD>90-123</TD>
+    <TD>73</TD>
+    <TD>288</TD>
+    <TD>361</TD>
+    <TD>148</TD>
+    <TD>43</TD>
+    <TD>29</TD>
+    <TD>96</TD>
+    <TD>207</TD>
+    <TD>678</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Amir-Johnson.shtml" 
+      target="_blank">阿米尔-约翰逊</A></TD>
+    <TD>80</TD>
+    <TD>77</TD>
+    <TD>1608</TD>
+    <TD>213-370</TD>
+    <TD>27-66</TD>
+    <TD>67-100</TD>
+    <TD>118</TD>
+    <TD>248</TD>
+    <TD>366</TD>
+    <TD>140</TD>
+    <TD>51</TD>
+    <TD>62</TD>
+    <TD>77</TD>
+    <TD>211</TD>
+    <TD>520</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jaylen-Brown.shtml" 
+      target="_blank">杰伦-布朗</A></TD>
+    <TD>78</TD>
+    <TD>20</TD>
+    <TD>1341</TD>
+    <TD>192-423</TD>
+    <TD>46-135</TD>
+    <TD>85-124</TD>
+    <TD>45</TD>
+    <TD>175</TD>
+    <TD>220</TD>
+    <TD>64</TD>
+    <TD>35</TD>
+    <TD>18</TD>
+    <TD>68</TD>
+    <TD>142</TD>
+    <TD>515</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Terry-Rozier.shtml" 
+      target="_blank">特里-罗齐尔</A></TD>
+    <TD>74</TD>
+    <TD>0</TD>
+    <TD>1263</TD>
+    <TD>151-411</TD>
+    <TD>57-179</TD>
+    <TD>51-66</TD>
+    <TD>40</TD>
+    <TD>187</TD>
+    <TD>227</TD>
+    <TD>131</TD>
+    <TD>46</TD>
+    <TD>11</TD>
+    <TD>47</TD>
+    <TD>69</TD>
+    <TD>410</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jonas-Jerebko.shtml" 
+      target="_blank">尤纳斯-杰雷布科</A></TD>
+    <TD>78</TD>
+    <TD>6</TD>
+    <TD>1232</TD>
+    <TD>114-262</TD>
+    <TD>45-130</TD>
+    <TD>26-37</TD>
+    <TD>59</TD>
+    <TD>213</TD>
+    <TD>272</TD>
+    <TD>71</TD>
+    <TD>25</TD>
+    <TD>17</TD>
+    <TD>39</TD>
+    <TD>122</TD>
+    <TD>299</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Gerald-Green.shtml" 
+      target="_blank">杰拉德-格林</A></TD>
+    <TD>47</TD>
+    <TD>0</TD>
+    <TD>538</TD>
+    <TD>95-232</TD>
+    <TD>39-111</TD>
+    <TD>33-41</TD>
+    <TD>16</TD>
+    <TD>68</TD>
+    <TD>84</TD>
+    <TD>33</TD>
+    <TD>9</TD>
+    <TD>7</TD>
+    <TD>25</TD>
+    <TD>48</TD>
+    <TD>262</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Tyler-Zeller.shtml" 
+      target="_blank">泰勒-泽勒</A></TD>
+    <TD>51</TD>
+    <TD>5</TD>
+    <TD>524</TD>
+    <TD>78-158</TD>
+    <TD>0-1</TD>
+    <TD>22-39</TD>
+    <TD>43</TD>
+    <TD>81</TD>
+    <TD>124</TD>
+    <TD>42</TD>
+    <TD>7</TD>
+    <TD>21</TD>
+    <TD>20</TD>
+    <TD>61</TD>
+    <TD>178</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/James-Young.shtml" 
+      target="_blank">詹姆斯-杨</A></TD>
+    <TD>29</TD>
+    <TD>0</TD>
+    <TD>220</TD>
+    <TD>25-58</TD>
+    <TD>12-35</TD>
+    <TD>6-9</TD>
+    <TD>6</TD>
+    <TD>20</TD>
+    <TD>26</TD>
+    <TD>4</TD>
+    <TD>10</TD>
+    <TD>2</TD>
+    <TD>4</TD>
+    <TD>15</TD>
+    <TD>68</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#ffe984');" 
+  bgcolor="#ffe984">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jordan-Mickey.shtml" 
+      target="_blank">乔丹-米基</A></TD>
+    <TD>25</TD>
+    <TD>1</TD>
+    <TD>141</TD>
+    <TD>15-34</TD>
+    <TD>0-1</TD>
+    <TD>8-14</TD>
+    <TD>13</TD>
+    <TD>21</TD>
+    <TD>34</TD>
+    <TD>7</TD>
+    <TD>3</TD>
+    <TD>6</TD>
+    <TD>9</TD>
+    <TD>12</TD>
+    <TD>38</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#FFEFB6');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Demetrius-Jackson.shtml" 
+      target="_blank">迪米特里厄斯-杰克逊</A></TD>
+    <TD>5</TD>
+    <TD>0</TD>
+    <TD>17</TD>
+    <TD>3-4</TD>
+    <TD>1-1</TD>
+    <TD>3-6</TD>
+    <TD>2</TD>
+    <TD>2</TD>
+    <TD>4</TD>
+    <TD>3</TD>
+    <TD>0</TD>
+    <TD>0</TD>
+    <TD>0</TD>
+    <TD>0</TD>
+    <TD>10</TD>
+    <TD></TD></TR>
+  <TR align="center" bgcolor="#ffffff">
+    <TD align="left" style="padding-left: 5px;">凯尔特人队全队</TD>
+    <TD>82</TD>
+    <TD>-</TD>
+    <TD>19755</TD>
+    <TD>3168-6978</TD>
+    <TD>985-2742</TD>
+    <TD>1536-1903</TD>
+    <TD>744</TD>
+    <TD>2698</TD>
+    <TD>3442</TD>
+    <TD>2069</TD>
+    <TD>617</TD>
+    <TD>340</TD>
+    <TD>1088</TD>
+    <TD>1686</TD>
+    <TD>8857</TD>
+    <TD></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;">对手</TD>
+    <TD>82</TD>
+    <TD>-</TD>
+    <TD>19755</TD>
+    <TD>3168-7035</TD>
+    <TD>735-2213</TD>
+    <TD>1570-2042</TD>
+    <TD>883</TD>
+    <TD>2769</TD>
+    <TD>3652</TD>
+    <TD>1851</TD>
+    <TD>623</TD>
+    <TD>425</TD>
+    <TD>1140</TD>
+    <TD>1664</TD>
+    <TD>8641</TD>
+    <TD></TD></TR></TBODY></TABLE></DIV><!-- 总计 end --> </DIV>
+<DIV id="table730bottom"></DIV><!-- 技术统计 end --> <!-- 左侧 转会签约 begin --> 
+<DIV class="show_hidden" id="table730top">
+<P style="font-size: 14px;">转会签约 | <A href="http://nba.sports.sina.com.cn/transactions_team.php?id=2" 
+target="_blank">更多</A></P></DIV>
+<DIV class="show_hidden" id="table730middle">
+<DIV align="center">
+<TABLE width="702" align="center" class="text" style="line-height: 16px;" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD width="80">日期</TD>
+    <TD width="160">球员</TD>
+    <TD width="100">类型</TD>
+    <TD>说明</TD>
+    <TD width="60">转至</TD>
+    <TD width="60">转自</TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2012-02-28</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Rajon-Rondo.shtml" 
+      target="_blank">拉简-隆多</A></TD>
+    <TD style="padding-left: 5px;">结束禁赛</TD>
+    <TD style="padding-left: 5px;"></TD><!--| <a href="#" target="_blank">相关新闻</a> -->
+	 
+    <TD align="center"></TD>
+    <TD align="center"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2012-02-20</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Rajon-Rondo.shtml" 
+      target="_blank">拉简-隆多</A></TD>
+    <TD style="padding-left: 5px;">被联盟禁赛</TD>
+    <TD style="padding-left: 5px;"></TD><!--| <a href="#" target="_blank">相关新闻</a> -->
+	 
+    <TD align="center"></TD>
+    <TD align="center"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2011-12-24</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Mickael-Pietrus.shtml" 
+      target="_blank">迈克尔-皮特鲁斯</A></TD>
+    <TD style="padding-left: 5px;">作为自由人签约</TD>
+    <TD style="padding-left: 5px;"></TD><!--| <a href="#" target="_blank">相关新闻</a> -->
+	 
+    <TD align="center"></TD>
+    <TD align="center"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2011-12-22</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Gilbert-Brown.shtml" 
+      target="_blank">吉尔伯特-布朗</A></TD>
+    <TD style="padding-left: 5px;">被解约</TD>
+    <TD style="padding-left: 5px;"></TD><!--| <a href="#" target="_blank">相关新闻</a> -->
+	 
+    <TD align="center"></TD>
+    <TD align="center"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2011-12-22</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Michael-Sweetney.shtml" 
+      target="_blank">迈克尔-斯维特尼</A></TD>
+    <TD style="padding-left: 5px;">被解约</TD>
+    <TD style="padding-left: 5px;"></TD><!--| <a href="#" target="_blank">相关新闻</a> -->
+	 
+    <TD align="center"></TD>
+    <TD align="center"></TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV class="show_hidden" id="table730bottom"></DIV><!-- 左侧 转会签约 end --> <!-- 左侧 伤病报告 begin --> 
+<DIV class="show_hidden" id="table730top">
+<P style="font-size: 14px;">伤病报告 | <A href="http://nba.sports.sina.com.cn/injury_team.php?id=2" 
+target="_blank">更多</A></P></DIV>
+<DIV class="show_hidden" id="table730middle">
+<DIV align="center">
+<TABLE width="702" align="center" class="text" style="line-height: 16px;" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD width="80">日期</TD>
+    <TD width="160">球员</TD>
+    <TD>详情</TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2012-03-14</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Chris-Wilcox.shtml" 
+      target="_blank">克里斯-威尔考克斯</A></TD>
+    <TD style="padding-left: 5px;"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2012-03-10</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Mickael-Pietrus.shtml" 
+      target="_blank">迈克尔-皮特鲁斯</A></TD>
+    <TD style="padding-left: 5px;"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2012-03-02</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Ray-Allen.shtml" 
+      target="_blank">雷-阿伦</A></TD>
+    <TD style="padding-left: 5px;"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2012-02-27</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Jermaine-O%60Neal.shtml" 
+      target="_blank">杰梅因-奥尼尔</A></TD>
+    <TD style="padding-left: 5px;"></TD></TR>
+  <TR onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="center">2012-02-15</TD>
+    <TD style="padding-left: 5px;"><A href="http://nba.sports.sina.com.cn/star/Kevin-Garnett.shtml" 
+      target="_blank">凯文-加内特</A></TD>
+    <TD style="padding-left: 5px;"></TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV class="show_hidden" id="table730bottom"></DIV><!-- 左侧 伤病报告 end --> <!-- 左侧 相关新闻begin --> 
+<DIV id="table730top">
+<STYLE>
+    #player_news table td{text-align:left}
+</STYLE>
+ 
+<P style="font-size: 14px;">相关新闻 | <A href="http://sports.sina.com.cn/nba/6.shtml" 
+target="_blank">更多</A></P></DIV><A name="news"></A> 
+<DIV id="table730middle">
+<DIV align="center" id="player_news"></DIV></DIV>
+<SCRIPT src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/TKL209R6.json" type="text/javascript"></SCRIPT>
+ 
+<DIV id="table730bottom"></DIV><!-- 左侧 相关新闻 end --> <!-- 左侧 相关图片begin --> <!--<div id="table730top">
+<p style="font-size:14px;">精彩图片 | <a href="#" target="_blank">更多</a></p></div>
+<div id="table730middle">
+<div align="center">
+<table width="700" border="0" align="center" cellpadding="0" cellspacing="0" class="text" style="line-height:20px;">
+<tr bgcolor="#FFEFB6" align=center>
+	<td width=25%><a href="http://sports.sina.com.cn/k/p/2007-10-23/16023242966.shtml" target="_blank"><br>
+	<img src="http://www.sinaimg.cn/ty/k/p/2007-10-23/U397P6T12D3242966F44DT20071023160226_small_min.jpg" alt="图文-“姚明纪念章”在北京发售纪念章近景" style=" border:1px #861700 solid;"></a></td>
+	<td width=25% align=center valign=middle><a href="http://sports.sina.com.cn/k/p/2007-10-23/15583242961.shtml" target="_blank">
+	<img src="http://www.sinaimg.cn/ty/k/p/2007-10-23/U397P6T12D3242961F44DT20071023155852_small_min.jpg" alt="图文-“姚明纪念章”在北京发售巨人头像特写" style=" border:1px #861700 solid;"></a></td>
+	<td width=25%><a href="http://sports.sina.com.cn/k/p/2007-10-23/15583242960.shtml" target="_blank">
+	<img src="http://www.sinaimg.cn/ty/k/p/2007-10-23/U397P6T12D3242960F44DT20071023155803_small_min.jpg" alt="图文-“姚明纪念章”在北京发售巨人冷酷眼神" style=" border:1px #861700 solid;"></a></td>
+	<td width=25%><a href="http://sports.sina.com.cn/k/p/2007-10-23/10293242524.shtml" target="_blank">
+	<img src="http://www.sinaimg.cn/ty/k/p/2007-10-23/U687P6T12D3242524F44DT20071023102936_small_min.jpg" alt="图文-[NBA]火箭队读书活动姚明变身故事大王" style=" border:1px #861700 solid;"></a></td></tr>
+<tr bgcolor="#FFEFB6" align=center>
+	<td width=25%>纪念章近景 <span>10/23</span></td>
+	<td width=25%>巨人头像特写 <span>10/23</span></td>
+	<td width=25%>巨人冷酷眼神 <span>10/23</span></td>
+	<td width=25%>姚明变身故事大王 <span>10/23</span></td></tr>
+</table>
+</div></div>
+<div id="table730bottom"></div> --> <!-- 左侧 相关图片 end --> 
+<BR></DIV><!-- 左侧 end --> <!-- 右侧 begin --> 
+<DIV id="right"><!-- 右侧-分区排名 begin --> 
+<DIV id="table250top">
+<TABLE width="250" height="36" align="center" class="title" border="0" 
+cellspacing="0" cellpadding="0">
+  <TBODY>
+  <TR align="center">
+    <TD>大西洋区排名</TD></TR></TBODY></TABLE></DIV>
+<DIV id="table250middle">
+<DIV align="center">
+<TABLE width="220" align="center" class="text" style="line-height: 16px;" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD>排名</TD>
+    <TD width="30">胜差</TD>
+    <TD width="30">胜</TD>
+    <TD width="30">负</TD>
+    <TD width="40">胜率</TD></TR>
+  <TR align="center" bgcolor="#ffffff">
+    <TD align="left" style="padding-left: 5px;">1. 凯尔特人</TD>
+    <TD>0</TD>
+    <TD>53</TD>
+    <TD>29</TD>
+    <TD>64.6%</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;">2.	 <A href="http://nba.sports.sina.com.cn/team/Raptors.shtml" 
+      target="_blank">猛龙</A></TD>
+    <TD>2</TD>
+    <TD>51</TD>
+    <TD>31</TD>
+    <TD>62.2%</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;">3.	 <A href="http://nba.sports.sina.com.cn/team/Knicks.shtml" 
+      target="_blank">尼克斯</A></TD>
+    <TD>22</TD>
+    <TD>31</TD>
+    <TD>51</TD>
+    <TD>37.8%</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;">4.	 <A href="http://nba.sports.sina.com.cn/team/76ers.shtml" 
+      target="_blank">76人</A></TD>
+    <TD>25</TD>
+    <TD>28</TD>
+    <TD>54</TD>
+    <TD>34.1%</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD align="left" style="padding-left: 5px;">5.	 <A href="http://nba.sports.sina.com.cn/team/Nets.shtml" 
+      target="_blank">篮网</A></TD>
+    <TD>33</TD>
+    <TD>20</TD>
+    <TD>62</TD>
+    <TD>24.4%</TD></TR>
+  <TR align="center" bgcolor="#ffe984">
+    <TD colspan="5"><A href="http://nba.sports.sina.com.cn/league_order.php" 
+      target="_blank">详细分区排名</A> |   <A href="http://nba.sports.sina.com.cn/league_order1.php" 
+      target="_blank">联盟排名</A></TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV id="table250bottom"></DIV><!-- 右侧-分区排名 end --> <!-- 右侧-近期赛程 begin --> 
+<DIV id="table250top">
+<TABLE width="250" height="36" align="center" class="title" border="0" 
+cellspacing="0" cellpadding="0">
+  <TBODY>
+  <TR align="center">
+    <TD>近期赛程</TD></TR></TBODY></TABLE></DIV>
+<DIV id="table250middle">
+<DIV align="center">
+<TABLE width="220" align="center" class="text" style="line-height: 16px;" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD colspan="3">上5场</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD width="40">05-26</TD>
+    <TD align="left" style="padding-left: 3px;">主场 <A href="http://sports.sina.com.cn/nba/live.html?id=2017052602" 
+      target="_blank">102-135</A> <A href="http://nba.sports.sina.com.cn/team/Cavaliers.shtml" 
+      target="_blank">骑士</A></TD>
+    <TD width="35"><A href="http://sports.sina.com.cn/basketball/nba/2017-05-26/doc-ifyfqvmh9048225.shtml" 
+      target="_blank">战报</A></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD width="40">05-24</TD>
+    <TD align="left" style="padding-left: 3px;">客场 <A href="http://sports.sina.com.cn/nba/live.html?id=2017052405" 
+      target="_blank">99-112</A> <A href="http://nba.sports.sina.com.cn/team/Cavaliers.shtml" 
+      target="_blank">骑士</A></TD>
+    <TD width="35"><A href="http://sports.sina.com.cn/basketball/nba/2017-05-24/doc-ifyfkqks4524699.shtml" 
+      target="_blank">战报</A></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD width="40">05-22</TD>
+    <TD align="left" style="padding-left: 3px;">客场 <A href="http://sports.sina.com.cn/nba/live.html?id=2017052205" 
+      target="_blank">111-108</A> <A href="http://nba.sports.sina.com.cn/team/Cavaliers.shtml" 
+      target="_blank">骑士</A></TD>
+    <TD width="35"><A href="http://sports.sina.com.cn/basketball/nba/2017-05-22/doc-ifyfkqks4418446.shtml" 
+      target="_blank">战报</A></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD width="40">05-20</TD>
+    <TD align="left" style="padding-left: 3px;">主场 <A href="http://sports.sina.com.cn/nba/live.html?id=2017052002" 
+      target="_blank">86-130</A> <A href="http://nba.sports.sina.com.cn/team/Cavaliers.shtml" 
+      target="_blank">骑士</A></TD>
+    <TD width="35"><A href="http://sports.sina.com.cn/basketball/nba/2017-05-20/doc-ifyfkqks4353921.shtml" 
+      target="_blank">战报</A></TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD width="40">05-18</TD>
+    <TD align="left" style="padding-left: 3px;">主场 <A href="http://sports.sina.com.cn/nba/live.html?id=2017051802" 
+      target="_blank">104-117</A> <A href="http://nba.sports.sina.com.cn/team/Cavaliers.shtml" 
+      target="_blank">骑士</A></TD>
+    <TD width="35"><A href="http://sports.sina.com.cn/basketball/nba/2017-05-18/doc-ifyfkqiv6486623.shtml" 
+      target="_blank">战报</A></TD></TR>
+  <TR align="center" bgcolor="#ffd200">
+    <TD colspan="3">下5场</TD></TR>
+  <TR align="center" bgcolor="#ffe984">
+    <TD bgcolor="#ffe984" colspan="3"><A href="http://nba.sports.sina.com.cn/match_result.php?teams=2" 
+      target="_blank">完全赛程</A> |	 <A href="http://nba.sports.sina.com.cn/match_result.php" 
+      target="_blank">最新NBA赛程</A></TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV id="table250bottom"></DIV><!-- 右侧-近期赛程 end --> <!-- 右侧-球队数据 begin --> 
+<DIV id="table250top">
+<TABLE width="250" height="36" align="center" class="title" border="0" 
+cellspacing="0" cellpadding="0">
+  <TBODY>
+  <TR align="center">
+    <TD>球队数据</TD></TR></TBODY></TABLE></DIV>
+<DIV id="table250middle">
+<DIV align="center">
+<TABLE width="220" align="center" class="text" style="line-height: 16px;" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD>(场均)</TD>
+    <TD>得分</TD>
+    <TD>篮板</TD>
+    <TD>助攻</TD>
+    <TD>命中率</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>凯尔特人队</TD>
+    <TD>108</TD>
+    <TD>42</TD>
+    <TD>25.2</TD>
+    <TD>45.4%</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD>对手</TD>
+    <TD>105.4</TD>
+    <TD>44.5</TD>
+    <TD>22.6</TD>
+    <TD>45%</TD></TR>
+  <TR align="center">
+    <TD bgcolor="#ffe984" colspan="5"><A href="http://nba.sports.sina.com.cn/teamstats.php?id=2" 
+      target="_blank">球队技术统计完全排名</A></TD></TR>
+  <TR align="center">
+    <TD bgcolor="#ffd200" colspan="5">战绩总结</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD colspan="2">主场战绩</TD>
+    <TD colspan="3">30胜11负</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD colspan="2">客场战绩</TD>
+    <TD colspan="3">23胜18负</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD colspan="2">分部战绩</TD>
+    <TD colspan="3">36胜16负</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD colspan="2">分区战绩</TD>
+    <TD colspan="3">11胜5负</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD colspan="2">最近十场</TD>
+    <TD colspan="3">7胜3负</TD></TR>
+  <TR align="center" onmouseover="mover(this,'#ffffff');" onmouseout="mout(this,'#FFEFB6');" 
+  bgcolor="#ffefb6">
+    <TD colspan="2">连胜连负</TD>
+    <TD colspan="3">3连胜</TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV id="table250bottom"></DIV><!-- 右侧-球队数据 end --> <!-- 右侧-各项最高 begin --> 
+<DIV id="table250top">
+<TABLE width="250" height="36" align="center" class="title" border="0" 
+cellspacing="0" cellpadding="0">
+  <TBODY>
+  <TR align="center">
+    <TD>各项最高</TD></TR></TBODY></TABLE></DIV>
+<DIV id="table250middle">
+<DIV align="center">
+<TABLE width="220" align="center" class="text" style="line-height: 16px;" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD width="50%" bgcolor="#ffd200">得分王</TD>
+    <TD width="50%" bgcolor="#ffd200">篮板王</TD></TR>
+  <TR align="center" bgcolor="#ffefb6">
+    <TD><A href="http://nba.sports.sina.com.cn/star/Isaiah-Thomas.shtml" 
+      target="_blank"><IMG width="60" height="75" style="border: 1px solid rgb(134, 23, 0); border-image: none;" 
+      alt="托马斯" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/4942.jpg"></A><BR><A href="http://nba.sports.sina.com.cn/star/Isaiah-Thomas.shtml" 
+      target="_blank">托马斯</A>28.9</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/star/Al-Horford.shtml" target="_blank"><IMG 
+      width="60" height="75" style="border: 1px solid rgb(134, 23, 0); border-image: none;" 
+      alt="霍福德" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/4245.jpg"></A><BR><A href="http://nba.sports.sina.com.cn/star/Al-Horford.shtml" 
+      target="_blank">霍福德</A>6.8</TD></TR>
+  <TR align="center" bgcolor="#ffd200">
+    <TD>助攻王</TD>
+    <TD>抢断王</TD></TR>
+  <TR align="center" bgcolor="#ffefb6">
+    <TD><A href="http://nba.sports.sina.com.cn/star/Isaiah-Thomas.shtml" 
+      target="_blank"><IMG width="60" height="75" style="border: 1px solid rgb(134, 23, 0); border-image: none;" 
+      alt="托马斯" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/4942.jpg"></A><BR><A href="http://nba.sports.sina.com.cn/star/Isaiah-Thomas.shtml" 
+      target="_blank">托马斯</A>5.9</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/star/Marcus-Smart.shtml" 
+      target="_blank"><IMG width="60" height="75" style="border: 1px solid rgb(134, 23, 0); border-image: none;" 
+      alt="斯玛特" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/5317.jpg"></A><BR><A href="http://nba.sports.sina.com.cn/star/Marcus-Smart.shtml" 
+      target="_blank">斯玛特</A>1.6</TD></TR>
+  <TR align="center" bgcolor="#ffd200">
+    <TD>盖帽王</TD>
+    <TD>三分王</TD></TR>
+  <TR align="center" bgcolor="#ffefb6">
+    <TD><A href="http://nba.sports.sina.com.cn/star/Al-Horford.shtml" target="_blank"><IMG 
+      width="60" height="75" style="border: 1px solid rgb(134, 23, 0); border-image: none;" 
+      alt="霍福德" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/4245.jpg"></A><BR><A href="http://nba.sports.sina.com.cn/star/Al-Horford.shtml" 
+      target="_blank">霍福德</A>1.3</TD>
+    <TD><A href="http://nba.sports.sina.com.cn/star/Demetrius-Jackson.shtml" 
+      target="_blank"><IMG width="60" height="75" style="border: 1px solid rgb(134, 23, 0); border-image: none;" 
+      alt="杰克逊" src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/20160043.jpg"></A><BR><A 
+      href="http://nba.sports.sina.com.cn/star/Demetrius-Jackson.shtml" target="_blank">杰克逊</A>100%</TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV id="table250bottom"></DIV><!-- 右侧-各项最高 end --> <!-- 右侧-球队历史 begin --> 
+<DIV id="table250top">
+<TABLE width="250" height="36" align="center" class="title" border="0" 
+cellspacing="0" cellpadding="0">
+  <TBODY>
+  <TR align="center">
+    <TD>球队历史</TD></TR></TBODY></TABLE></DIV>
+<DIV id="table250middle">
+<DIV align="center">
+<TABLE width="220" align="center" class="text" style="line-height: 16px;" 
+border="0" cellspacing="1" cellpadding="0">
+  <TBODY>
+  <TR align="center" bgcolor="#ffd200">
+    <TD colspan="4">历史战绩</TD></TR>
+  <TR align="center" bgcolor="#ffe984">
+    <TD width="25%">赛季</TD>
+    <TD width="25%">胜</TD>
+    <TD width="25%">负</TD>
+    <TD width="25%">胜率</TD></TR>
+  <TR align="center">
+    <TD style="padding-top: 0px;" colspan="4"><IFRAME width="100%" height="95" 
+      src="凯尔特人队%20_NBA%20_新浪竞技风暴_新浪网_files/ckctl.htm" frameborder="0" 
+      marginwidth="0" marginheight="0" scrolling="yes"></IFRAME></TD></TR>
+  <TR align="center" bgcolor="#ffd200">
+    <TD colspan="4">最高荣誉</TD></TR>
+  <TR bgcolor="#ffefb6">
+    <TD style="line-height: 20px; padding-left: 10px;" colspan="4">1956-57 
+      总冠军<BR>1958-59 总冠军<BR>1959-60 总冠军<BR>1960-61 总冠军<BR>1961-62 总冠军<BR>1962-63 
+      总冠军<BR>1963-64 总冠军<BR>1964-65 总冠军<BR>1965-66 总冠军<BR>1967-68 总冠军<BR>1968-69 
+      总冠军<BR>1973-74 总冠军<BR>1975-76 总冠军<BR>1980-81 总冠军<BR>1983-84 总冠军<BR>1985-86 
+      总冠军<BR>2007-08 总冠军<BR></TD></TR>
+  <TR align="center" bgcolor="#ffd200">
+    <TD colspan="4">发展历史</TD></TR>
+  <TR bgcolor="#ffefb6">
+    <TD style="line-height: 20px; padding-left: 10px;" colspan="4">1946至今 
+      波士顿凯尔特人队<BR></TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV id="table250bottom"></DIV><!-- 右侧-球队历史 end --> </DIV><!-- 右侧 end --> </DIV><!-- 页面主要内容 end --> <!-- 所有NBA数据库通用模块2 begin --> <!--<SCRIPT LANGUAGE="JavaScript" src="http://www.sinaimg.cn/dy/deco/2007/sinafooter.js"></SCRIPT> --> 
+<DIV id="footer">
+<P><A href="http://corp.sina.com.cn/chn/">新浪简介</A> | <A href="http://corp.sina.com.cn/eng/">About 
+Sina</A> | <A href="http://ads.sina.com.cn/">广告服务</A> | <A href="http://www.sina.com.cn/contactus.html">联系我们</A> 
+| <A href="http://corp.sina.com.cn/chn/sina_job.html">招聘信息</A> | <A href="http://www.sina.com.cn/intro/lawfirm.shtml">网站律师</A> 
+| <A href="http://english.sina.com/">SINA English</A> | <A href="http://members.sina.com.cn/apply/">通行证注册</A> 
+| <A href="http://tech.sina.com.cn/focus/sinahelp.shtml">产品答疑</A></P>
+<P>Copyright &copy; 1996-2012 SINA Corporation, All Rights Reserved</P>
+<P>新浪公司 <A href="http://www.sina.com.cn/intro/copyright.shtml" 
+target="_blank">版权所有</A></P></DIV></DIV><!-- 所有NBA数据库通用模块2 end --> 
+</CENTER></BODY></HTML>
