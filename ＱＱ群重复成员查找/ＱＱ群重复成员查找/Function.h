@@ -11,3 +11,4 @@ int insbintree( struct BINTREE *, struct BINTREE * );//二叉查找树中插入结点
 int hashcmp( struct BINTREE * hashA[], struct BINTREE *hashB[], struct RESNODE * resList );//哈希比对。将比对结果存入resList
 int LRDvisitbintree( struct BINTREE * bintree, struct BINTREE *hashB[], struct RESNODE * resList );//后序遍历二叉树
 int DLRsearchbintree( struct BINTREE * bintree, struct BINTREE * item, struct RESNODE * resList );
+int FileWrite( struct RESNODE * list );

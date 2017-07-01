@@ -147,6 +147,7 @@
     <ClInclude Include="ContExec.h" />
     <ClInclude Include="DLRSearchBinTree.h" />
     <ClInclude Include="FileRead.h" />
+    <ClInclude Include="FileWrite.h" />
     <ClInclude Include="Function.h" />
     <ClInclude Include="HashCmp.h" />
     <ClInclude Include="insBinTree.h" />

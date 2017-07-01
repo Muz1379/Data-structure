@@ -65,5 +65,8 @@
     <ClInclude Include="insHash.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="FileWrite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

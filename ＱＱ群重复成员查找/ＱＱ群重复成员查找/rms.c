@@ -31,7 +31,7 @@
 #include "LRDVisitBinTree.h"
 #include "HashCmp.h"
 #include "DLRSearchBinTree.h"
-
+#include "FileWrite.h"
 
 int main( void )
 {
@@ -89,6 +89,7 @@ int main( void )
 	hashcmp( hashA, hashB, resList );
 
 	printf( "查找完毕，结果存储在resList单链表中\n" );
+	FileWrite( resList );//写入结果文件
 
 	resTemp = resList;
 	if(resTemp->next != NULL)
@@ -96,7 +97,7 @@ int main( void )
 		while(resTemp != NULL)
 		{
 			printf( "\n" );
-			printf( "%20s\t%30s\t%30s\t%30s\t%30s\t", resTemp->A->qqNum, resTemp->A->qqGroup, resTemp->A->personCard, resTemp->B->qqGroup, resTemp->B->personCard );
+			printf( "  %-20s\t%-35s\t%-30s\t%-35s\t%-30s\t", resTemp->A->qqNum, resTemp->A->qqGroup, resTemp->A->personCard, resTemp->B->qqGroup, resTemp->B->personCard );
 			resTemp = resTemp->next;
 		}
 	}
