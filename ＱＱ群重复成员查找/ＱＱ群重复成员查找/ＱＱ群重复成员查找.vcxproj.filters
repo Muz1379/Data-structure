@@ -68,5 +68,20 @@
     <ClInclude Include="FileWrite.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="QuickSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PopStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PushStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="STACKNODE.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isEmptyStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -12,3 +12,6 @@ int hashcmp( struct BINTREE * hashA[], struct BINTREE *hashB[], struct RESNODE *
 int LRDvisitbintree( struct BINTREE * bintree, struct BINTREE *hashB[], struct RESNODE * resList );//后序遍历二叉树
 int DLRsearchbintree( struct BINTREE * bintree, struct BINTREE * item, struct RESNODE * resList );
 int FileWrite( struct RESNODE * list );
+int QuickSort( struct RESNODE * list, struct RESNODE * end );
+int PushStack( struct STACKNODE * stack, struct STACKNODE * item );//入栈
+struct STACKNODE * PopStack( struct STACKNODE * stack );//出栈

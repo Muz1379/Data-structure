@@ -154,11 +154,16 @@
     <ClInclude Include="insHash.h" />
     <ClInclude Include="InsResList.h" />
     <ClInclude Include="isChinese.h" />
+    <ClInclude Include="isEmptyStack.h" />
     <ClInclude Include="KMP.h" />
     <ClInclude Include="LRDVisitBinTree.h" />
     <ClInclude Include="MemberNode.h" />
+    <ClInclude Include="PopStack.h" />
+    <ClInclude Include="PushStack.h" />
+    <ClInclude Include="QuickSort.h" />
     <ClInclude Include="resNode.h" />
     <ClInclude Include="SearchHash.h" />
+    <ClInclude Include="STACKNODE.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

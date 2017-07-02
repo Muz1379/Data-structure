@@ -17,6 +17,7 @@
 #include "BINNode.h"
 #include "MemberNode.h"
 #include "resNode.h"
+#include "STACKNODE.h"
 //函数声明
 #include "Function.h"
 //函数定义
@@ -32,12 +33,17 @@
 #include "HashCmp.h"
 #include "DLRSearchBinTree.h"
 #include "FileWrite.h"
+#include "QuickSort.h"
+#include "PopStack.h"
+#include "PushStack.h"
+#include "isEmptyStack.h"
 
 int main( void )
 {
+	int flag = 0;
 	//TODO:测试用
 	char fileNameA[100] = "testA.txt";	                //文件名A
-	char fileNameB[100] = "testB.txt";	                //文件名B
+	char fileNameB[100] = "testC.txt";	                //文件名B
 
 	char * contA = NULL;			                //内容字符串A
 	char * contB = NULL;			                //内容字符串B
@@ -46,6 +52,7 @@ int main( void )
 	struct BINTREE * tempA = { NULL };
 	struct BINTREE * tempB = { NULL };
 	struct RESNODE * resList = { NULL };
+	struct RESNODE * resListEnd;
 	struct RESNODE * resTemp;
 
 	//初始化结果链表头
@@ -87,9 +94,39 @@ int main( void )
 
 	//查找哈希表，生成结果链表
 	hashcmp( hashA, hashB, resList );
-
-	printf( "查找完毕，结果存储在resList单链表中\n" );
 	FileWrite( resList );//写入结果文件
+	printf( "查找完毕，结果存储在resList单链表和文件result.txt中\n" );
+	
+	resTemp = resList;
+	if(resTemp->next != NULL)
+	{
+		while(resTemp != NULL)
+		{
+			printf( "\n" );
+			printf( "  %-20s\t%-35s\t%-30s\t%-35s\t%-30s\t", resTemp->A->qqNum, resTemp->A->qqGroup, resTemp->A->personCard, resTemp->B->qqGroup, resTemp->B->personCard );
+			resTemp = resTemp->next;
+		}
+	}
+	else
+	{
+		printf( "两群内无重复人员" );
+	}
+	printf( "\n\n" );
+	printf( "是否进行排序——快速排序：是 1      否 0\n" );
+	//TODO:测试设定
+	//scanf( "%d", &flag );
+	flag = 1;
+	if(flag == 1)
+	{
+		resListEnd = resList;
+		while(resListEnd->next != NULL)
+		{
+			resListEnd = resListEnd->next;
+		}
+		QuickSort( resList->next ,resListEnd);
+	}
+
+	printf( "\n" );
 
 	resTemp = resList;
 	if(resTemp->next != NULL)
@@ -105,6 +142,8 @@ int main( void )
 	{
 		printf( "两群内无重复人员" );
 	}
+
+
 
 	printf( "\n" );
 	system( "pause" );
