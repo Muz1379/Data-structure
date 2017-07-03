@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>æ•°æ®ç»“æ„è¯¾è®¾: isChinese.h æºæ–‡ä»¶</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">æ•°æ®ç»“æ„è¯¾è®¾
+   &#160;<span id="projectnumber">beta 1.0</span>
+   </div>
+   <div id="projectbrief">QQç¾¤é‡å¤æˆå‘˜æŸ¥æ‰¾â€”â€”æä»¤æ–°-ä¿¡ç®¡1501</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- åˆ¶ä½œè€… Doxygen 1.8.13 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','æœç´¢');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div class="header">
+  <div class="headertitle">
+<div class="title">isChinese.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="is_chinese_8h.html">æµè§ˆè¯¥æ–‡ä»¶çš„æ–‡æ¡£.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#pragma once</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div><div class="line"><a name="l00004"></a><span class="lineno"><a class="line" href="is_chinese_8h.html#a6c224aa3059c7b5cd8fd3bf7a5a2cab2">    4</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="is_chinese_8h.html#a6c224aa3059c7b5cd8fd3bf7a5a2cab2">isChinese</a>( <span class="keywordtype">char</span> * str )</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;{</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;    <span class="keywordtype">int</span> i = 0;</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;    <span class="keywordtype">unsigned</span> <span class="keywordtype">char</span> tmp[5];</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    <span class="keywordflow">for</span>(i = 0; i &lt; 4; i++)</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;    {</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;        tmp[i] = (int)*(str + i);</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    }</div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    tmp[4] = <span class="charliteral">&#39;\0&#39;</span>;</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;</div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    <span class="keywordtype">unsigned</span> <span class="keywordtype">char</span> chinese[14][5] =</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    {</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;        0xE2,0xBA,0x80,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;        0xE2,0xBB,0xB3,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;        0xE2,0xBC,0x80,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;        0xE2,0xBF,0x95,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;        0xE3,0x80,0x85,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;        0xE3,0x80,0xA9,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;        0xE3,0x80,0xB8,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        0xE4,0xB6,0xB5,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;        0xE4,0xB8,0x80,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;        0xEF,0xA9,0xAA,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;        0xEF,0xA9,0xB0,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;        0xEF,0xAB,0x99,<span class="charliteral">&#39;\0&#39;</span>,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;        0xF0,0xA0,0x80,0x80,<span class="charliteral">&#39;\0&#39;</span>,</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;        0xF0,0xAF,0xA8,0x9D,<span class="charliteral">&#39;\0&#39;</span></div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;    };</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    <span class="keywordflow">for</span>(i = 0; i &lt; 14; i = i + 2)</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    {</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;        <span class="keywordflow">if</span>(strcmp( tmp, chinese[i] ) &gt; 0)</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;            <span class="keywordflow">if</span>(strcmp( tmp, chinese[i + 1] ) &lt; 0)</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;                <span class="keywordflow">return</span> 1;</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    }</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="keywordflow">return</span> 0;</div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;}</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="comment">/*</span></div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<span class="comment">UTF-8ÖĞºº×Ö·¶Î§</span></div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="comment"></span></div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="comment">Õ¼ÓÃ 3 ¸ö×Ö½ÚµÄ·¶Î§</span></div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<span class="comment">U+2E80 - U+2EF3 : 0xE2 0xBA 0x80 - 0xE2 0xBB 0xB3 ? ? ?¹² 115 ¸ö ?</span></div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;<span class="comment">U+2F00 - U+2FD5 : 0xE2 0xBC 0x80 - 0xE2 0xBF 0x95 ? ? ?¹² 213 ¸ö ?</span></div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="comment">U+3005 - U+3029 : 0xE3 0x80 0x85 - 0xE3 0x80 0xA9 ? ? ?¹² 36 ¸ö ?</span></div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="comment">U+3038 - U+4DB5 : 0xE3 0x80 0xB8 - 0xE4 0xB6 0xB5 ? ? ?¹² 7549 ¸ö ?</span></div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;<span class="comment">U+4E00 - U+FA6A : 0xE4 0xB8 0x80 - 0xEF 0xA9 0xAA ? ? ?¹² 44138 ¸ö ?</span></div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="comment">U+FA70 - U+FAD9 : 0xEF 0xA9 0xB0 - 0xEF 0xAB 0x99 ? ? ?¹² 105 ¸ö ?</span></div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="comment">ºÏ¼Æ£º 52156 ¸ö Õ¼ÓÃ 4 ¸ö×Ö½ÚµÄ·¶Î§
+U+20000 - U+2FA1D : 0xF0 0xA0 0x80 0x80 - 0xF0 0xAF 0xA8 0x9D ? ? ?¹² 64029 ¸ö ?
+ºÏ¼Æ£º 64029 ¸ö
+*/</span></div><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="comment">Õ¼ÓÃ 4 ¸ö×Ö½ÚµÄ·¶Î§</span></div><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="comment">U+20000 - U+2FA1D : 0xF0 0xA0 0x80 0x80 - 0xF0 0xAF 0xA8 0x9D ? ? ?¹² 64029 ¸ö ?</span></div><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="comment">ºÏ¼Æ£º 64029 ¸ö */</span></div><div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="comment">*/</span></div><div class="ttc" id="is_chinese_8h_html_a6c224aa3059c7b5cd8fd3bf7a5a2cab2"><div class="ttname"><a href="is_chinese_8h.html#a6c224aa3059c7b5cd8fd3bf7a5a2cab2">isChinese</a></div><div class="ttdeci">int isChinese(char *str)</div><div class="ttdef"><b>Definition:</b> <a href="is_chinese_8h_source.html#l00004">isChinese.h:4</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+åˆ¶ä½œè€… &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

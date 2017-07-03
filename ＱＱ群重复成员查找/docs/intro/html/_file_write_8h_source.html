@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>数据结构课设: FileWrite.h 源文件</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">数据结构课设
+   &#160;<span id="projectnumber">beta 1.0</span>
+   </div>
+   <div id="projectbrief">QQ群重复成员查找——李令新-信管1501</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- 制作者 Doxygen 1.8.13 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','搜索');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div class="header">
+  <div class="headertitle">
+<div class="title">FileWrite.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_file_write_8h.html">浏览该文件的文档.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#pragma once</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#include &lt;stdio.h&gt;</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div><div class="line"><a name="l00004"></a><span class="lineno"><a class="line" href="_function_8h.html#a2c87ece9636bca846c34c22ad8f81607">    4</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="_file_write_8h.html#a2c87ece9636bca846c34c22ad8f81607">FileWrite</a>( <a class="code" href="struct_r_e_s_n_o_d_e.html">resNODE</a> * list,<span class="keywordtype">char</span> * filename)</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;{</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;    <a class="code" href="struct_r_e_s_n_o_d_e.html">resNODE</a> * resTemp;</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;    resTemp = list;</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;    FILE * fp;</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    fp = fopen( filename, <span class="stringliteral">&quot;w+&quot;</span> );</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;</div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <span class="keywordflow">if</span>(resTemp-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a76de7271a9ebedfb82e49bab978d3dd5">next</a> != <a class="code" href="rms_8c.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>)</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;    {</div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;        <span class="keywordflow">while</span>(resTemp != <a class="code" href="rms_8c.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>)</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;        {</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;            fprintf(fp, <span class="stringliteral">&quot;\n&quot;</span> );</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;            fprintf(fp, <span class="stringliteral">&quot;  %-20s\t%-35s\t%-30s\t%-35s\t%-30s\t&quot;</span>, resTemp-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a51a4dc6b4f237be6b7668edec10f54c9">A</a>-&gt;<a class="code" href="struct_m_e_m_b_e_r_n_o_d_e.html#a565763e23695fb0c7db2ccbb3e987ba0">qqNum</a>, resTemp-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a51a4dc6b4f237be6b7668edec10f54c9">A</a>-&gt;<a class="code" href="struct_m_e_m_b_e_r_n_o_d_e.html#a62b854a5f4fe02548468603da3796a3f">qqGroup</a>, resTemp-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a51a4dc6b4f237be6b7668edec10f54c9">A</a>-&gt;<a class="code" href="struct_m_e_m_b_e_r_n_o_d_e.html#aad1b94e7c25d824bb10accb1d12b4f77">personCard</a>, resTemp-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a7f54a8463ffa2e0e459aaf2de9beee47">B</a>-&gt;<a class="code" href="struct_m_e_m_b_e_r_n_o_d_e.html#a62b854a5f4fe02548468603da3796a3f">qqGroup</a>, resTemp-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a7f54a8463ffa2e0e459aaf2de9beee47">B</a>-&gt;<a class="code" href="struct_m_e_m_b_e_r_n_o_d_e.html#aad1b94e7c25d824bb10accb1d12b4f77">personCard</a> );</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;            resTemp = resTemp-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a76de7271a9ebedfb82e49bab978d3dd5">next</a>;</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;        }</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;    }</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;    <span class="keywordflow">else</span></div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;    {</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;        fprintf(fp, <span class="stringliteral">&quot;��Ⱥ�����ظ���Ա&quot;</span> );</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;    }</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;    fclose( fp );</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;    fp = <a class="code" href="rms_8c.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>;</div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="_cont_exec_8h.html#aba51915c87d64af47fb1cc59348961c9">OK</a>;</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;}</div><div class="ttc" id="struct_r_e_s_n_o_d_e_html_a76de7271a9ebedfb82e49bab978d3dd5"><div class="ttname"><a href="struct_r_e_s_n_o_d_e.html#a76de7271a9ebedfb82e49bab978d3dd5">RESNODE::next</a></div><div class="ttdeci">struct RESNODE * next</div><div class="ttdef"><b>Definition:</b> <a href="res_node_8h_source.html#l00008">resNode.h:8</a></div></div>
+<div class="ttc" id="struct_r_e_s_n_o_d_e_html_a7f54a8463ffa2e0e459aaf2de9beee47"><div class="ttname"><a href="struct_r_e_s_n_o_d_e.html#a7f54a8463ffa2e0e459aaf2de9beee47">RESNODE::B</a></div><div class="ttdeci">MNODE * B</div><div class="ttdef"><b>Definition:</b> <a href="res_node_8h_source.html#l00007">resNode.h:7</a></div></div>
+<div class="ttc" id="_cont_exec_8h_html_aba51915c87d64af47fb1cc59348961c9"><div class="ttname"><a href="_cont_exec_8h.html#aba51915c87d64af47fb1cc59348961c9">OK</a></div><div class="ttdeci">#define OK</div><div class="ttdef"><b>Definition:</b> <a href="_cont_exec_8h_source.html#l00008">ContExec.h:8</a></div></div>
+<div class="ttc" id="struct_m_e_m_b_e_r_n_o_d_e_html_a565763e23695fb0c7db2ccbb3e987ba0"><div class="ttname"><a href="struct_m_e_m_b_e_r_n_o_d_e.html#a565763e23695fb0c7db2ccbb3e987ba0">MEMBERNODE::qqNum</a></div><div class="ttdeci">char qqNum[12]</div><div class="ttdef"><b>Definition:</b> <a href="_member_node_8h_source.html#l00008">MemberNode.h:8</a></div></div>
+<div class="ttc" id="struct_m_e_m_b_e_r_n_o_d_e_html_a62b854a5f4fe02548468603da3796a3f"><div class="ttname"><a href="struct_m_e_m_b_e_r_n_o_d_e.html#a62b854a5f4fe02548468603da3796a3f">MEMBERNODE::qqGroup</a></div><div class="ttdeci">char qqGroup[100]</div><div class="ttdef"><b>Definition:</b> <a href="_member_node_8h_source.html#l00006">MemberNode.h:6</a></div></div>
+<div class="ttc" id="struct_r_e_s_n_o_d_e_html"><div class="ttname"><a href="struct_r_e_s_n_o_d_e.html">RESNODE</a></div><div class="ttdef"><b>Definition:</b> <a href="res_node_8h_source.html#l00004">resNode.h:4</a></div></div>
+<div class="ttc" id="_file_write_8h_html_a2c87ece9636bca846c34c22ad8f81607"><div class="ttname"><a href="_file_write_8h.html#a2c87ece9636bca846c34c22ad8f81607">FileWrite</a></div><div class="ttdeci">int FileWrite(resNODE *list, char *filename)</div><div class="ttdef"><b>Definition:</b> <a href="_file_write_8h_source.html#l00004">FileWrite.h:4</a></div></div>
+<div class="ttc" id="struct_m_e_m_b_e_r_n_o_d_e_html_aad1b94e7c25d824bb10accb1d12b4f77"><div class="ttname"><a href="struct_m_e_m_b_e_r_n_o_d_e.html#aad1b94e7c25d824bb10accb1d12b4f77">MEMBERNODE::personCard</a></div><div class="ttdeci">char personCard[100]</div><div class="ttdef"><b>Definition:</b> <a href="_member_node_8h_source.html#l00007">MemberNode.h:7</a></div></div>
+<div class="ttc" id="rms_8c_html_a070d2ce7b6bb7e5c05602aa8c308d0c4"><div class="ttname"><a href="rms_8c.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></div><div class="ttdeci">#define NULL</div><div class="ttdef"><b>Definition:</b> <a href="rms_8c_source.html#l00013">rms.c:13</a></div></div>
+<div class="ttc" id="struct_r_e_s_n_o_d_e_html_a51a4dc6b4f237be6b7668edec10f54c9"><div class="ttname"><a href="struct_r_e_s_n_o_d_e.html#a51a4dc6b4f237be6b7668edec10f54c9">RESNODE::A</a></div><div class="ttdeci">MNODE * A</div><div class="ttdef"><b>Definition:</b> <a href="res_node_8h_source.html#l00006">resNode.h:6</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+制作者 &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

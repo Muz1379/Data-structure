@@ -30,8 +30,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v140</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>false</UseOfMfc>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -43,7 +44,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>v140_xp</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -144,18 +145,21 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BINNode.h" />
+    <ClInclude Include="ClearHash.h" />
+    <ClInclude Include="ClearResList.h" />
     <ClInclude Include="ContExec.h" />
     <ClInclude Include="DLRSearchBinTree.h" />
     <ClInclude Include="FileRead.h" />
     <ClInclude Include="FileWrite.h" />
     <ClInclude Include="Function.h" />
     <ClInclude Include="HashCmp.h" />
+    <ClInclude Include="InitGUI.h" />
     <ClInclude Include="insBinTree.h" />
     <ClInclude Include="insHash.h" />
     <ClInclude Include="InsResList.h" />
-    <ClInclude Include="isChinese.h" />
     <ClInclude Include="isEmptyStack.h" />
     <ClInclude Include="KMP.h" />
+    <ClInclude Include="LRDClearBinTree.h" />
     <ClInclude Include="LRDVisitBinTree.h" />
     <ClInclude Include="MemberNode.h" />
     <ClInclude Include="PopStack.h" />
@@ -163,6 +167,7 @@
     <ClInclude Include="QuickSort.h" />
     <ClInclude Include="resNode.h" />
     <ClInclude Include="SearchHash.h" />
+    <ClInclude Include="ShowResult.h" />
     <ClInclude Include="STACKNODE.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

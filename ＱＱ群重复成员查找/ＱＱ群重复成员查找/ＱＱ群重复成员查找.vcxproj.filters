@@ -59,9 +59,6 @@
     <ClInclude Include="DLRSearchBinTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="isChinese.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="insHash.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -81,6 +78,21 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="isEmptyStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowResult.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InitGUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ClearResList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ClearHash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LRDClearBinTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

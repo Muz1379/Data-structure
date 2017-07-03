@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>数据结构课设: InsResList.h 源文件</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">数据结构课设
+   &#160;<span id="projectnumber">beta 1.0</span>
+   </div>
+   <div id="projectbrief">QQ群重复成员查找——李令新-信管1501</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- 制作者 Doxygen 1.8.13 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','搜索');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div class="header">
+  <div class="headertitle">
+<div class="title">InsResList.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_ins_res_list_8h.html">浏览该文件的文档.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#pragma once</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="res_node_8h.html">resNode.h</a>&quot;</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div><div class="line"><a name="l00005"></a><span class="lineno"><a class="line" href="_ins_res_list_8h.html#a1021ef2a4552ed9174ab6bd0f9e0b77a">    5</a></span>&#160;<span class="keywordtype">int</span> <a class="code" href="_ins_res_list_8h.html#a1021ef2a4552ed9174ab6bd0f9e0b77a">insreslist</a>( <a class="code" href="struct_r_e_s_n_o_d_e.html">resNODE</a> * list, <a class="code" href="struct_r_e_s_n_o_d_e.html">resNODE</a> * p )</div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;{</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;    <span class="keywordflow">while</span>(list-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a76de7271a9ebedfb82e49bab978d3dd5">next</a> != <a class="code" href="rms_8c.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>)</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    {</div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        list = list-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a76de7271a9ebedfb82e49bab978d3dd5">next</a>;</div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    }</div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    list-&gt;<a class="code" href="struct_r_e_s_n_o_d_e.html#a76de7271a9ebedfb82e49bab978d3dd5">next</a> = p;</div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="_cont_exec_8h.html#aba51915c87d64af47fb1cc59348961c9">OK</a>;</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;}</div><div class="ttc" id="struct_r_e_s_n_o_d_e_html_a76de7271a9ebedfb82e49bab978d3dd5"><div class="ttname"><a href="struct_r_e_s_n_o_d_e.html#a76de7271a9ebedfb82e49bab978d3dd5">RESNODE::next</a></div><div class="ttdeci">struct RESNODE * next</div><div class="ttdef"><b>Definition:</b> <a href="res_node_8h_source.html#l00008">resNode.h:8</a></div></div>
+<div class="ttc" id="_cont_exec_8h_html_aba51915c87d64af47fb1cc59348961c9"><div class="ttname"><a href="_cont_exec_8h.html#aba51915c87d64af47fb1cc59348961c9">OK</a></div><div class="ttdeci">#define OK</div><div class="ttdef"><b>Definition:</b> <a href="_cont_exec_8h_source.html#l00008">ContExec.h:8</a></div></div>
+<div class="ttc" id="_ins_res_list_8h_html_a1021ef2a4552ed9174ab6bd0f9e0b77a"><div class="ttname"><a href="_ins_res_list_8h.html#a1021ef2a4552ed9174ab6bd0f9e0b77a">insreslist</a></div><div class="ttdeci">int insreslist(resNODE *list, resNODE *p)</div><div class="ttdef"><b>Definition:</b> <a href="_ins_res_list_8h_source.html#l00005">InsResList.h:5</a></div></div>
+<div class="ttc" id="struct_r_e_s_n_o_d_e_html"><div class="ttname"><a href="struct_r_e_s_n_o_d_e.html">RESNODE</a></div><div class="ttdef"><b>Definition:</b> <a href="res_node_8h_source.html#l00004">resNode.h:4</a></div></div>
+<div class="ttc" id="rms_8c_html_a070d2ce7b6bb7e5c05602aa8c308d0c4"><div class="ttname"><a href="rms_8c.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></div><div class="ttdeci">#define NULL</div><div class="ttdef"><b>Definition:</b> <a href="rms_8c_source.html#l00013">rms.c:13</a></div></div>
+<div class="ttc" id="res_node_8h_html"><div class="ttname"><a href="res_node_8h.html">resNode.h</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+制作者 &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

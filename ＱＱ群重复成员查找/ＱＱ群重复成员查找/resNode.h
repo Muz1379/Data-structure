@@ -3,7 +3,7 @@
 //结果链表节点定义
 typedef struct RESNODE
 {
-	struct MEMBERNODE * A;
-	struct MEMBERNODE * B;
+	MNODE * A;
+	MNODE * B;
 	struct RESNODE * next;
-};
+}resNODE;

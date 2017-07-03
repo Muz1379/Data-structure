@@ -1,18 +1,16 @@
 #pragma once
 
 #include <stdio.h>
-
 #include "ContExec.h"
 /*
 读入文件，并把文件流赋值给cont，返回字符数组指针
 */
 
-int fileread( char * url, struct BINTREE * hash[] )
+int fileread( char * url, binTreeNODE * hash[] )
 {
-
 	long fpLength = 0;
-
-	FILE * fp = fopen( url, "rb+" );
+	FILE * fp;
+	fp = (fopen( url, "rb+" ));
 	if(fp == NULL)
 	{
 		puts( "文件打开失败" );
@@ -23,7 +21,7 @@ int fileread( char * url, struct BINTREE * hash[] )
 
 	fpLength = ftell( fp );
 
-	char * cont = (char *)malloc( sizeof( char )* (fpLength + 1) );
+	char * cont = (char *)malloc( sizeof( char )* (fpLength + 2) );
 
 	//fseek( fp, 0, SEEK_SET );
 	rewind( fp );
@@ -33,12 +31,10 @@ int fileread( char * url, struct BINTREE * hash[] )
 
 	fread( cont, sizeof( char ), fpLength, fp );
 
-	*(cont + fpLength) = '\0';
-
-	contexec( cont, hash );
-
 	fclose( fp );
 	fp = NULL;
 
-	return OK;
+	*(cont + fpLength) = '\0';
+
+	return contexec( cont, hash );;
 }

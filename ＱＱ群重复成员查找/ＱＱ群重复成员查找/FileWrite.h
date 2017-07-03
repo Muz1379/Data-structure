@@ -1,11 +1,13 @@
 #pragma once
+#include <stdio.h>
 
-int FileWrite( struct RESNODE * list)
+int FileWrite( resNODE * list,char * filename)
 {
-	struct RESNODE * resTemp;
+	resNODE * resTemp;
 	resTemp = list;
 
-	FILE * fp = fopen( "result.txt", "w+" );
+	FILE * fp;
+	fp = fopen( filename, "w+" );
 
 	if(resTemp->next != NULL)
 	{
@@ -22,6 +24,6 @@ int FileWrite( struct RESNODE * list)
 	}
 
 	fclose( fp );
-
+	fp = NULL;
 	return OK;
 }

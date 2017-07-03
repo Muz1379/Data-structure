@@ -2,7 +2,7 @@
 
 #include "resNode.h"
 
-int insreslist( struct RESNODE * list, struct RESNODE * p )
+int insreslist( resNODE * list, resNODE * p )
 {
 	while(list->next != NULL)
 	{

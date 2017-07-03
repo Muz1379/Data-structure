@@ -1,7 +1,7 @@
 #pragma  once
 //成员节点
 
-typedef  struct MEMBERNODE
+typedef struct MEMBERNODE
 {
 	char qqGroup[100];    //qq群名
 	char personCard[100];//群内名片

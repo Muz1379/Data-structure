@@ -1,17 +1,14 @@
 #pragma once
 
-
 #include <string.h>
 
-#define OK 1
-#define ERR -1
-#define NULL 0
 
 int insbintree( struct BINTREE * bintree, struct BINTREE * item )
 {
 	if(strcmp( bintree->member->qqNum, item->member->qqNum ) > 0)
 	{
-		if(bintree->left != NULL)//左子结点不是叶子结点
+		//左子结点不是叶子结点
+		if(bintree->left != NULL)
 		{
 			insbintree( bintree->left, item );
 		}
@@ -21,9 +18,11 @@ int insbintree( struct BINTREE * bintree, struct BINTREE * item )
 			return OK;
 		}
 	}
-	else//QQ号唯一，不会出现两qq号相同的情况，因此，不考虑字符串想等的情况。
+	//QQ号唯一，不会出现两qq号相同的情况，因此，不考虑字符串想等的情况。
+	else
 	{
-		if(bintree->right != NULL)//左子结点不是叶子结点
+		//左子结点不是叶子结点
+		if(bintree->right != NULL)
 		{
 			insbintree( bintree->right, item );
 		}

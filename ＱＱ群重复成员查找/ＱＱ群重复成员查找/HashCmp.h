@@ -1,18 +1,13 @@
 #pragma once
 
-
-#define OK 1
-#define ERR -1
-#define NULL 0
-#define HASHLENGTH 500
-
 //将哈希表看作按照一定规则组织起来的二叉查找树森林。哈希函数求得二叉查找树的树根
 
-int hashcmp( struct BINTREE * hashA[], struct BINTREE *hashB[], struct RESNODE * resList )
+int hashcmp( binTreeNODE * hashA[], binTreeNODE * hashB[], resNODE* resList )
 {
 	int i = 0;
 
-	for(i = 0; i < HASHLENGTH; i++)//遍历hashA，
+	//遍历hashA，
+	for(i = 0; i < HASHLENGTH; i++)
 	{
 		if(hashA[i] != NULL)
 		{
