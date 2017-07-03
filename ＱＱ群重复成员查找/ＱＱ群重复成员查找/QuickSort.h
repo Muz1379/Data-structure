@@ -1,20 +1,18 @@
 #pragma once
 
-int QuickSort( struct RESNODE * list, struct RESNODE * end)
+int QuickSort( resNODE * list, resNODE * end)
 {
 	if(list == NULL || list == end)
 	{
 		return OK;
 	}
 
-	struct RESNODE * key = list;
-	struct RESNODE * preP = key;
-	struct RESNODE * p = key->next;
-	struct RESNODE * preQ = key;
-	struct RESNODE * q = key->next;
-
-	struct RESNODE temp = { NULL };
-
+	resNODE * key = list;//key为轴心点
+	resNODE * preP = key;
+	resNODE * p = key->next;//存储点，即与快指针交换的点
+	resNODE * preQ = key;
+	resNODE * q = key->next;//快指针，
+	resNODE temp = { NULL };//作为交换值时使用的临时变量
 
 	while(preQ != end)
 	{
